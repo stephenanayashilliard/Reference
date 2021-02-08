@@ -5,7 +5,13 @@
     - [Interguartiel range](https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244)
 - Module 2:  VBA
   - [Stock-Analysis](https://github.com/stephenanayashilliard/Stock-Analysis)
-- Module 3:  Python
+- Module 3:  Python (VS Code)
+  - [Election Analysis](https://github.com/stephenanayashilliard/Election_Analysis)
+    - [Python Download](https://www.python.org/downloads/)
+  - VS Code (Visual Studio Code)
+    - [VS Code Official Guide](https://code.visualstudio.com/docs/introvideos/basics)
+  - GitHub
+    - [Github Documentation: Authentication](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 - Employment Services
   - [Project Open Data](https://github.com/project-open-data/)
   - [Sherlock Project](https://github.com/sherlock-project/sherlock)
