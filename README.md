@@ -5,6 +5,7 @@
     - [Interguartiel range](https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244)
 - Module 2:  VBA
   - [Stock-Analysis](https://github.com/stephenanayashilliard/Stock-Analysis)
+- Module 3:  Python
 - Employment Services
   - [Project Open Data](https://github.com/project-open-data/)
   - [Sherlock Project](https://github.com/sherlock-project/sherlock)
