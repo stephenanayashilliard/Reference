@@ -5,9 +5,25 @@
     - [Interguartiel range](https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244)
 - Module 2:  VBA
   - [Stock-Analysis](https://github.com/stephenanayashilliard/Stock-Analysis)
-- Module 3:  Python (VS Code)
+- Module 3:  Python (VS Code, Github)
   - [Election Analysis](https://github.com/stephenanayashilliard/Election_Analysis)
+  - Python
     - [Python Download](https://www.python.org/downloads/)
+    - [Python Data Types](https://docs.python.org/3.6/library/stdtypes.html#numeric-types-int-float-complex)
+    - [Python Built-in Functions](https://docs.python.org/3.6/library/functions.html)
+    - [Python Built-in types: Dictionaries](https://docs.python.org/3.6/library/stdtypes.html#dictionary-view-objects)
+    - [Python Dictionary Keys](https://docs.python.org/3.6/faq/design.html#why-must-dictionary-keys-be-immutable)
+    - [Python Documentation on comparison operators](https://docs.python.org/3.6/library/stdtypes.html#comparisonsl)
+    - [Python Literal String Interpolation](https://www.python.org/dev/peps/pep-0498/)
+    - Examples:
+      - Data types (creating lists, type(), len(), append(), remove(), pop(), tuples)
+      - Dictionaries
+      - Decision Statements and comparison operators (if-else, nested if-else, if-elif-else)
+      - Membership Operators and logical operators(and, or, not)
+      - Repetition Statements (loops, while loop, for loop, range())
+      - Printing Formats (f-strings, Format Floating-Point Decimals)
+      - Importing Data (import datetime, importing csv,  
+      - 
   - VS Code (Visual Studio Code)
     - [VS Code Official Guide](https://code.visualstudio.com/docs/introvideos/basics)
   - GitHub
