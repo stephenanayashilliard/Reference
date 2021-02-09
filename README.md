@@ -20,12 +20,12 @@
     - [Python file and directory access](https://docs.python.org/3.6/library/os.path.html)
     - [Python Using next method with CSV](https://docs.python.org/3.6/library/csv.html#reader-objects)
     - Examples:
-      - Data types (creating lists, type(), len(), append(), remove(), pop(), tuples)
-      - Dictionaries
-      - Decision Statements and comparison operators (if-else, nested if-else, if-elif-else)
-      - Membership Operators and logical operators(and, or, not)
-      - Repetition Statements (loops, while loop, for loop, range())
-      - Printing Formats (f-strings, Format Floating-Point Decimals)
+      - [Data types (creating lists, type(), len(), append(), remove(), pop(), tuples)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/lists_len_append_remove_pop_tuples.ipynb)
+      - [Dictionaries](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Dictionaries.ipynb)
+      - [Decision Statements and comparison operators (if-else, nested if-else, if-elif-else)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Decision%20Statements%20and%20Comparison%20Opperators.ipynb)
+      - [Membership Operators and logical operators(and, or, not)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Membership%20Operators%20and%20Logical%20Operators%20(and%2C%20or%2C%20not).ipynb)
+      - [Repetition Statements (loops, while loop, for loop, range())](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Repetition%20Statements%20(loops%2C%20while%20loop%2C%20for%20loop%2C%20range()%2C).ipynb)
+      - [Printing Formats (f-strings, Format Floating-Point Decimals)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Printing%20Formats%20(f-strings%2C%20Format%20Floating-Point%20Decimals).ipynb) 
       - [Python Data in VS Code](https://github.com/stephenanayashilliard/Election_Analysis/blob/master/Pypoll.py)
       - 
   - VS Code (Visual Studio Code)
