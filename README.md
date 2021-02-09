@@ -51,7 +51,7 @@
     - [Panda Series](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.sample.html)
     - [Pandas DataFrame](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.DataFrame.html)
     - Examples
-      - Panda (adding the dependency, dictionary to dataframe, list to dataframe, working with dataframes)
+      - [Panda (adding the dependency, dictionary to dataframe, list to dataframe, working with dataframes)](https://github.com/stephenanayashilliard/Reference/blob/main/Four_Python_Pandas_Jupyter/Panda%20Practice(adding%20Dependency%2C%20dictionary%20to%20DataFrame%2C%20list%20to%20DataFrame%2C%20working%20with%20DataFrames).ipynb)
   
 - Employment Services
   - [Project Open Data](https://github.com/project-open-data/)
