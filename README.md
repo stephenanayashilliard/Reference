@@ -3,8 +3,10 @@
 - Module 1:  Excel
   - [Kickstarter-analysis](https://github.com/stephenanayashilliard/Kickstarter-analysis)
     - [Interguartiel range](https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244)
+
 - Module 2:  VBA
   - [Stock-Analysis](https://github.com/stephenanayashilliard/Stock-Analysis)
+
 - Module 3:  Python (VS Code, Github)
   - [Election Analysis](https://github.com/stephenanayashilliard/Election_Analysis)
   - Python
@@ -31,8 +33,21 @@
   - GitHub
     - [Github Documentation: Authentication](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
     - [Github Documentation: Basic Writing and Formatting](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-- Module 4: Python (Pandas, Juptyer Notebook)
-  - [
+
+- Module 4: Python (Pandas, Anaconda, Juptyer Notebook)
+  - [School_District_Analyas](https://github.com/stephenanayashilliard/School_District_Analysis)
+  - Python
+    - [Python Package Index](https://pypi.org/)
+  - Jupyter Notebook
+    - [Anaconda: installing](https://docs.anaconda.com/anaconda/install/)
+    - [Developement Environement](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
+    - [Activating Development environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment)
+    - [Deactivating a Development Environemnt](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#deactivating-an-environment)
+    - [Deleting a Development Environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#removing-an-environment)
+    - [What is a local host?](https://whatismyipaddress.com/localhost)
+    - [what are my computer port numbers?](https://www.expressvpn.com/what-is-my-ip/port-number)
+    - [Jupyter Notebook Features](https://jupyter-notebook.readthedocs.io/en/stable/index.html)
+  
 - Employment Services
   - [Project Open Data](https://github.com/project-open-data/)
   - [Sherlock Project](https://github.com/sherlock-project/sherlock)
@@ -45,5 +60,6 @@
     - Python
       - [HackerRank](https://www.hackerrank.com/)
       - [CodeSignal](https://codesignal.com/)
+
 - Data Sites
   - [United_States Congress-Legislators](https://github.com/unitedstates/congress-legislators)
