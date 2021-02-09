@@ -47,6 +47,11 @@
     - [What is a local host?](https://whatismyipaddress.com/localhost)
     - [what are my computer port numbers?](https://www.expressvpn.com/what-is-my-ip/port-number)
     - [Jupyter Notebook Features](https://jupyter-notebook.readthedocs.io/en/stable/index.html)
+   - Pandas
+    - [Panda Series](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.sample.html)
+    - [Pandas DataFrame](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.DataFrame.html)
+    - Examples
+      - Panda (adding the dependency, dictionary to dataframe, list to dataframe, working with dataframes)
   
 - Employment Services
   - [Project Open Data](https://github.com/project-open-data/)
