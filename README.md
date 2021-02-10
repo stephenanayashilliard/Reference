@@ -1,15 +1,15 @@
 # Reference
 
-- Module 1:  Excel
+- ## Module 1:  Excel
   - [Kickstarter-analysis](https://github.com/stephenanayashilliard/Kickstarter-analysis)
     - [Interguartiel range](https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244)
 
-- Module 2:  VBA
+- ## Module 2:  VBA
   - [Stock-Analysis](https://github.com/stephenanayashilliard/Stock-Analysis)
 
-- Module 3:  Python (VS Code, Github)
+- ## Module 3:  Python (VS Code, Github)
   - [Election Analysis](https://github.com/stephenanayashilliard/Election_Analysis)
-  - Python
+  - ### Python
     - [Python Download](https://www.python.org/downloads/)
     - [Python Data Types](https://docs.python.org/3.6/library/stdtypes.html#numeric-types-int-float-complex)
     - [Python Built-in Functions](https://docs.python.org/3.6/library/functions.html)
@@ -19,7 +19,7 @@
     - [Python Literal String Interpolation](https://www.python.org/dev/peps/pep-0498/)
     - [Python file and directory access](https://docs.python.org/3.6/library/os.path.html)
     - [Python Using next method with CSV](https://docs.python.org/3.6/library/csv.html#reader-objects)
-   - Coding:
+   - ### Coding:
       - [Data types (creating lists, type(), len(), append(), remove(), pop(), tuples)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/lists_len_append_remove_pop_tuples.ipynb)
       - [Dictionaries](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Dictionaries.ipynb)
       - [Decision Statements and comparison operators (if-else, nested if-else, if-elif-else)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Decision%20Statements%20and%20Comparison%20Opperators.ipynb)
@@ -28,17 +28,17 @@
       - [Printing Formats (f-strings, Format Floating-Point Decimals)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Printing%20Formats%20(f-strings%2C%20Format%20Floating-Point%20Decimals).ipynb) 
       - [Python Data in VS Code](https://github.com/stephenanayashilliard/Election_Analysis/blob/master/Pypoll.py)
       - 
-  - VS Code (Visual Studio Code)
+  - ### VS Code (Visual Studio Code)
     - [VS Code Official Guide](https://code.visualstudio.com/docs/introvideos/basics)
-  - GitHub
+  - ### GitHub
     - [Github Documentation: Authentication](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
     - [Github Documentation: Basic Writing and Formatting](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-- Module 4: Python (Pandas, Anaconda, Juptyer Notebook)
+- ## Module 4: Python (Pandas, Anaconda, Juptyer Notebook)
   - [School_District_Analyas](https://github.com/stephenanayashilliard/School_District_Analysis)
-  - Python
+  - ### Python
     - [Python Package Index](https://pypi.org/)
-  - Jupyter Notebook
+  - ### Jupyter Notebook
     - [Anaconda: installing](https://docs.anaconda.com/anaconda/install/)
     - [Developement Environement](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
     - [Activating Development environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment)
@@ -47,7 +47,7 @@
     - [What is a local host?](https://whatismyipaddress.com/localhost)
     - [what are my computer port numbers?](https://www.expressvpn.com/what-is-my-ip/port-number)
     - [Jupyter Notebook Features](https://jupyter-notebook.readthedocs.io/en/stable/index.html)
-   - Pandas
+   - ### Pandas
       - [Panda Series](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.sample.html)
       - [Pandas DataFrame](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.DataFrame.html)
       - [Panda Documenation on reading_csv Function](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html)
@@ -72,15 +72,15 @@
       - [Pandas Documenation on the groupby() function](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html)
       - [Pandas Documentation on sort_values() function](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html)
       - [Pandas documentation on visualization](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
-    - Coding
+    - ### Coding
       - [Panda (adding the dependency, dictionary to dataframe, list to dataframe, working with dataframes)](https://github.com/stephenanayashilliard/Reference/blob/main/Four_Python_Pandas_Jupyter/Panda%20Practice(adding%20Dependency%2C%20dictionary%20to%20DataFrame%2C%20list%20to%20DataFrame%2C%20working%20with%20DataFrames).ipynb)
       - [Loading csv file: Direct and Indirect path; Creating a DataFrame; Find missing values; Count method; isnull(); notnull; Merging DataFrames; unique(); sum(); .mean(); Adding a list of values with keys to create a New DataFrame; Format columns; map(); format(), Reording Columns; Set the index; value_counts(); groupby(), sort_values(); sorting into bines and or ranges; decribe(); cut();](http://localhost:8889/notebooks/Desktop/Class%20Projects/School_District_Analysis/PyCitySchools.ipynb)
       - [Taking Care of Missing Data: Drop the NaNs, Fill in the NaNs](http://localhost:8889/notebooks/Desktop/Class%20Projects/School_District_Analysis/cleaning_data.ipynb)
       - [Cleaning the Data: tolist(); split(); set(); strip(), replace(); Replacing Substrings;  ](http://localhost:8889/notebooks/Desktop/Class%20Projects/School_District_Analysis/cleaning_student_names.ipynb)
       
-- Module 5: (Python and Matplotlib and SciPy and NumPy)
+- ## Module 5: (Python and Matplotlib and SciPy and NumPy)
   - [PyBer_Analysis](https://github.com/stephenanayashilliard/PyBer_Analysis)
-  - Matplotlib
+  - ### Matplotlib
     - [Matplotlib Intstallation Windows](https://github.com/stephenanayashilliard/Reference/blob/main/Five_Python_Matplotlib_SciPy_Numpy/Matplotlib_Intallation_Windows.docx)
     - [Matplotlib Documentation](https://matplotlib.org/3.1.0/index.html)
     - [Matplotlib Documentation on Back Ends](https://matplotlib.org/3.1.1/api/matplotlib_configuration_api.html)
@@ -113,17 +113,17 @@
     - [Matplotlib documentation on box plots](https://matplotlib.org/examples/statistics/boxplot_demo.html)
     - [Matplotlib documentation on customizing Matplotlib with style sheets and rcParams](https://matplotlib.org/tutorials/introductory/customizing.html)
     - [Matplotlib_When_to_use_These_Charts](https://github.com/stephenanayashilliard/Reference/blob/main/Five_Python_Matplotlib_SciPy_Numpy/Matplotlib_When_to_use_These_Charts.docx)
-  - NumPy
+  - ### NumPy
     - [NumPy website](https://numpy.org/)
     - [SciPy page on numpy.arange](https://numpy.org/doc/stable/reference/generated/numpy.arange.html)
-   - Coding
+   - ### Coding
       - [Matplotlib: Line Chart; plt.show(); Bar Charts; Scatter Plot; Bubble Chart; Pie Charts](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/matplotlib_practice.ipynb)
       - [Matplotlib: Error Bars; Adding Ticks](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/More_matplotlib_practice.ipynb)
       - [Matplotlib:  Plot a DataFrame and Series and import statistics](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/PyBer_ride_data.ipynb)
       - [Matplotlib:  Step by Step, import, analysis: Summary Statisics; SciPY (Central Tendency); charting; Box-and-Whisker Plots](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/PyBer.ipynb)
   
   
-- Employment Services
+- ## Employment Services
   - [Project Open Data](https://github.com/project-open-data/)
   - [Sherlock Project](https://github.com/sherlock-project/sherlock)
   - [salaryexpert.com](https://www.salaryexpert.com/)
@@ -137,5 +137,10 @@
       - [HackerRank](https://www.hackerrank.com/)
       - [CodeSignal](https://codesignal.com/)
 
-- Data Sites
+- ## Data Sites
   - [United_States Congress-Legislators](https://github.com/unitedstates/congress-legislators)
+  - [United States Census Data](https://www.census.gov/data.html)
+  - [FBI Crime Data](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/topic-pages/tables/table-1)
+  - [CDC Cause of Death](https://www.cdc.gov/datastatistics/index.html)
+  - [Bureau of Labor Statisistics](https://www.bls.gov/data/)
+  - [Walmart Sales Data](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data)
