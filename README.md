@@ -82,6 +82,7 @@
   - [Sherlock Project](https://github.com/sherlock-project/sherlock)
   - [salaryexpert.com](https://www.salaryexpert.com/)
   - [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019)
+  - [Python Explosion blamed on Pandas](https://www.theregister.com/2017/09/14/python_explosion_blamed_on_pandas/)
   - Portfolio Websites
     - [10 Fantastic Portfolio Websites](https://bestfolios.medium.com/10-fantastic-portfolio-websites-from-silicon-valley-design-leads-2d84b384dba6)
     - [One Page Portfolio Websites](https://bestfolios.medium.com/10-fantastic-portfolio-websites-from-silicon-valley-design-leads-2d84b384dba6)
