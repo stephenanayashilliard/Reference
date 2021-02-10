@@ -19,7 +19,7 @@
     - [Python Literal String Interpolation](https://www.python.org/dev/peps/pep-0498/)
     - [Python file and directory access](https://docs.python.org/3.6/library/os.path.html)
     - [Python Using next method with CSV](https://docs.python.org/3.6/library/csv.html#reader-objects)
-    - Examples:
+   - Coding:
       - [Data types (creating lists, type(), len(), append(), remove(), pop(), tuples)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/lists_len_append_remove_pop_tuples.ipynb)
       - [Dictionaries](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Dictionaries.ipynb)
       - [Decision Statements and comparison operators (if-else, nested if-else, if-elif-else)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Decision%20Statements%20and%20Comparison%20Opperators.ipynb)
