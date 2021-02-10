@@ -106,6 +106,12 @@
     - [Matplotlib documentation on matplotlib.pyplot.errorbar](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.errorbar.html)
     - [Matplotlib documentation on axes.Axes.errorbar](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.errorbar.html)
     - [Matplotlib documentation on major and minor ticks](https://matplotlib.org/3.1.0/gallery/ticks_and_spines/major_minor_demo.html)
+    - [Matplotlib documentation on matplotlib.pyplot.legend](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.legend.html)
+    - [Matplotlib documentation on matplotlib.axes.Axes.legend](https://matplotlib.org/2.0.0/api/_as_gen/matplotlib.axes.Axes.legend.html)
+    - [Matplotlib documentation on matplotlib.pyplot.text](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.text.html)
+    - [Matplotlib documentation on statistics visualizations](https://matplotlib.org/3.1.1/gallery/index.html#statistics)
+    - [Matplotlib documentation on box plots](https://matplotlib.org/examples/statistics/boxplot_demo.html)
+    - [Matplotlib documentation on customizing Matplotlib with style sheets and rcParams](https://matplotlib.org/tutorials/introductory/customizing.html)
     - [Matplotlib_When_to_use_These_Charts](https://github.com/stephenanayashilliard/Reference/blob/main/Five_Python_Matplotlib_SciPy_Numpy/Matplotlib_When_to_use_These_Charts.docx)
   - NumPy
     - [NumPy website](https://numpy.org/)
@@ -113,7 +119,8 @@
    - Coding
       - [Matplotlib: Line Chart; plt.show(); Bar Charts; Scatter Plot; Bubble Chart; Pie Charts](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/matplotlib_practice.ipynb)
       - [Matplotlib: Error Bars; Adding Ticks](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/More_matplotlib_practice.ipynb)
-      - [Matplotlib:  Plot a DataFrame and Series]
+      - [Matplotlib:  Plot a DataFrame and Series and import statistics](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/PyBer_ride_data.ipynb)
+      - [Matplotlib:  Step by Step, import, analysis: Summary Statisics; SciPY (Central Tendency); charting; Box-and-Whisker Plots](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/PyBer.ipynb)
   
   
 - Employment Services
