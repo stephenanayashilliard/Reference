@@ -71,11 +71,40 @@
       - [Panda Documenation on value_counts()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html)
       - [Pandas Documenation on the groupby() function](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html)
       - [Pandas Documentation on sort_values() function](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html)
-    - Examples
+    - Coding
       - [Panda (adding the dependency, dictionary to dataframe, list to dataframe, working with dataframes)](https://github.com/stephenanayashilliard/Reference/blob/main/Four_Python_Pandas_Jupyter/Panda%20Practice(adding%20Dependency%2C%20dictionary%20to%20DataFrame%2C%20list%20to%20DataFrame%2C%20working%20with%20DataFrames).ipynb)
       - [Loading csv file: Direct and Indirect path; Creating a DataFrame; Find missing values; Count method; isnull(); notnull; Merging DataFrames; unique(); sum(); .mean(); Adding a list of values with keys to create a New DataFrame; Format columns; map(); format(), Reording Columns; Set the index; value_counts(); groupby(), sort_values(); sorting into bines and or ranges; decribe(); cut();](http://localhost:8889/notebooks/Desktop/Class%20Projects/School_District_Analysis/PyCitySchools.ipynb)
       - [Taking Care of Missing Data: Drop the NaNs, Fill in the NaNs](http://localhost:8889/notebooks/Desktop/Class%20Projects/School_District_Analysis/cleaning_data.ipynb)
       - [Cleaning the Data: tolist(); split(); set(); strip(), replace(); Replacing Substrings;  ](http://localhost:8889/notebooks/Desktop/Class%20Projects/School_District_Analysis/cleaning_student_names.ipynb)
+      
+- Module 5: (Python and Matplotlib and SciPy and NumPy)
+  - [PyBer_Analysis](https://github.com/stephenanayashilliard/PyBer_Analysis)
+  - Matplotlib
+   - [Matplotlib Intstallation Windows](https://github.com/stephenanayashilliard/Reference/blob/main/Five_Python_Matplotlib_SciPy_Numpy/Matplotlib_Intallation_Windows.docx)
+   - [Matplotlib Documentation](https://matplotlib.org/3.1.0/index.html)
+   - [Matplotlib Documentation on Back Ends](https://matplotlib.org/3.1.1/api/matplotlib_configuration_api.html)
+   - [Matplotlib Annotate Functions Chart](https://github.com/stephenanayashilliard/Reference/blob/main/Five_Python_Matplotlib_SciPy_Numpy/Matplotlib_Annotate_Functions_Chart.docx)
+   - [Matplotlib_Object_Oriented_Functions_Chart](https://github.com/stephenanayashilliard/Reference/blob/main/Five_Python_Matplotlib_SciPy_Numpy/Matplotlib_Object_Oriented_Functions_Chart.docx)
+   - [Matplotlib Documentation on matplotlib.pyplot.plot](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.plot.html)
+   - [Matplotlib Documentation on the Pyplot API](https://matplotlib.org/3.1.0/api/index.html#the-pyplot-api)
+   - [Matplotlib Documentation on the Anatomy of a Matplotlib Chart](https://matplotlib.org/tutorials/introductory/usage.html#parts-of-a-figure)
+   - [Matplotlib Documentation on matplotlib.axes.Axes.plot](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.plot.html)
+   - [Matplotlib documentation on the Axes class](https://matplotlib.org/3.1.0/api/axes_api.html)
+   - [Matplotlib documentation on creating bar charts using the MATLAB method](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.bar.html#matplotlib.pyplot.bar)
+   - [Matplotlib documentation on creating horizontal bar charts using the MATLAB method](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.barh.html#matplotlib.pyplot.barh)
+   - [Matplotlib documentation on creating bar charts using the object-oriented interface](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.bar.html)
+   - [Matplotlib documentation on matplotlib.pyplot.scatter](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.scatter.html#matplotlib.pyplot.scatter)
+   - [Matplotlib documentation on a simple scatter plot](https://matplotlib.org/3.1.1/gallery/shapes_and_collections/scatter.html#sphx-glr-gallery-shapes-and-collections-scatter-py)
+   - [Matplotlib documentation on list comprehension](https://docs.python.org/3.6/tutorial/datastructures.html#list-comprehensions)
+   - [Matplotlib documentation on matplotlib.axes.Axes.scatter](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.scatter.html)
+   - [Matplotlib documentation on scatter charts with a legend](https://matplotlib.org/3.1.0/gallery/lines_bars_and_markers/scatter_with_legend.html#sphx-glr-gallery-lines-bars-and-markers-scatter-with-legend-py)
+   - [Matplotlib documentation on plotting a list of the named colors supported by Matplotlib ](https://matplotlib.org/3.1.1/gallery/color/named_colors.html)
+   - [Matplotlib CSS colors](https://matplotlib.org/3.1.1/gallery/color/named_colors.html#sphx-glr-gallery-color-named-colors-py)
+   - [Matplotlib documentation on creating a pie chart using the MATLAB method](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.pie.html#matplotlib.pyplot.scatter)
+   - [ Matplotlib documentation on creating a pie chart using the object-oriented interface method](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.pie.html)
+   - Coding
+    - [Matplotlib: Line Chart; plt.show(); Bar Charts; Scatter Plot; Bubble Chart; Pie Charts](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/matplotlib_practice.ipynb)
+  
   
 - Employment Services
   - [Project Open Data](https://github.com/project-open-data/)
