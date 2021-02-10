@@ -121,6 +121,21 @@
       - [Matplotlib: Error Bars; Adding Ticks](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/More_matplotlib_practice.ipynb)
       - [Matplotlib:  Plot a DataFrame and Series and import statistics](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/PyBer_ride_data.ipynb)
       - [Matplotlib:  Step by Step, import, analysis: Summary Statisics; SciPY (Central Tendency); charting; Box-and-Whisker Plots](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/PyBer.ipynb)
+      
+- ## Module 6: (Python and APIs)
+  - [World_Weather Analysis Using APIs](http://localhost:8888/tree/Desktop/Class%20Projects/World_Weather_Analysis)
+  - ### APIs
+    - ## random module
+      - [documentation on numpy.random.uniform()](https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.uniform.html)
+      - [Chart on Random module Functions](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Chart%20on%20Random%20functions.docx)
+    - ## timeit module
+    - ## CitiPy module
+      - [Installing CitiPy](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Installing_CitiPy.docx)
+      - [ GitHub citipy repository](https://github.com/wingchen/citipy)
+  - ### Coding
+    - [Generate Random Latitudes and Longitudes Using randint(), random(), randragne(), uniform(); NumPy; timit module; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/random_numbers.ipynb#)
+    - [Create Latitude and Longitude Combinations: Pandas, Matplotlib, NumPy, Time, 
+    - [API_Practice: 
   
   
 - ## Employment Services
