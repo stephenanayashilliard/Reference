@@ -156,7 +156,7 @@
   - ### Coding
       - [Generate Random Latitudes and Longitudes Using randint(), random(), randragne(), uniform(); NumPy; timit module; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/random_numbers.ipynb#)
       - [Create Latitude and Longitude Combinations: Pandas, Matplotlib, NumPy, Time,](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/WeatherPy.ipynb#)
-      - [API_Practice: 
+      - [API_Practice](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/API_practice.ipynb)
       - [WeatherPy: API practice; CitiPy module; datetime module; API key; import requests; build URL; create a DataFrame; Output CSV; Use Linear Regression to Find the Relationship Between Variables; Set Up Google Maps and Places API](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/WeatherPy.ipynb#Finding:)
       - [Create Heatmaps for Weather Parameters; Create a customer Prompt; Set the Parameters for a Nearby Search; Add A Pop Up Marker; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/VacationPy.ipynb)
       - [Practice Using a Fixed Latitude and Longitude](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/Google_Nearby_Search.ipynb)
