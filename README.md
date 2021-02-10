@@ -33,6 +33,7 @@
   - ### GitHub
     - [Github Documentation: Authentication](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
     - [Github Documentation: Basic Writing and Formatting](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+    - [Github: modifying your gitignore file](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Modify_the_gitignore_file.docx)
 
 - ## Module 4: Python (Pandas, Anaconda, Juptyer Notebook)
   - [School_District_Analyas](https://github.com/stephenanayashilliard/School_District_Analysis)
@@ -125,17 +126,31 @@
 - ## Module 6: (Python and APIs)
   - [World_Weather Analysis Using APIs](http://localhost:8888/tree/Desktop/Class%20Projects/World_Weather_Analysis)
   - ### APIs
-    - ## random module
+  - ### random module
       - [documentation on numpy.random.uniform()](https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.uniform.html)
       - [Chart on Random module Functions](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Chart%20on%20Random%20functions.docx)
-    - ## timeit module
-    - ## CitiPy module
+  - ### timeit module
+      - [Documentation on the Time Module](https://docs.python.org/3.6/library/time.html#functions)
+  - ### CitiPy module
+    -  [Installing CitiPy](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Installing_CitiPy.docx)
+    -  [GitHub citipy repository](https://github.com/wingchen/citipy)
+  - ### datetime module
+    - [datetime](https://docs.python.org/3.6/library/datetime.html)
+    - [strftime()](https://docs.python.org/3.6/library/datetime.html#strftime-and-strptime-behavior)
+  - ### Google Maps and Places API
+  - ### Python Requests Library 
+      - [Instructions on Python Request Library](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Instructions_on_Python_Request_Library.docx)
       - [Installing CitiPy](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Installing_CitiPy.docx)
-      - [ GitHub citipy repository](https://github.com/wingchen/citipy)
+      - [Requests: HTTP for Humans](https://requests.kennethreitz.org/en/master/)
+      - [Quickstart](https://requests.kennethreitz.org/en/master/user/quickstart/#make-a-request)
+      - [try-except](https://docs.python.org/3.6/tutorial/errors.html)
+  - ### Linear Regression
+      - [documentation on the linear regression function](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html#scipy.stats.linregress)
   - ### Coding
-    - [Generate Random Latitudes and Longitudes Using randint(), random(), randragne(), uniform(); NumPy; timit module; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/random_numbers.ipynb#)
-    - [Create Latitude and Longitude Combinations: Pandas, Matplotlib, NumPy, Time, 
-    - [API_Practice: 
+      - [Generate Random Latitudes and Longitudes Using randint(), random(), randragne(), uniform(); NumPy; timit module; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/random_numbers.ipynb#)
+      - [Create Latitude and Longitude Combinations: Pandas, Matplotlib, NumPy, Time,](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/WeatherPy.ipynb#)
+      - [API_Practice: 
+      - [WeatherPy: API practice; CitiPy module; datetime module; API key; import requests; build URL; create a DataFrame; Output CSV; Use Linear Regression to Find the Relationship Between Variables; Set Up Google Maps and Places API; 
   
   
 - ## Employment Services
@@ -159,3 +174,5 @@
   - [CDC Cause of Death](https://www.cdc.gov/datastatistics/index.html)
   - [Bureau of Labor Statisistics](https://www.bls.gov/data/)
   - [Walmart Sales Data](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data)
+  - [Open Weather Map API](https://openweathermap.org/api)
+  - [Google Maps Platform page](https://cloud.google.com/maps-platform/)
