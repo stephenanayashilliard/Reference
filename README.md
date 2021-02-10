@@ -71,6 +71,7 @@
       - [Panda Documenation on value_counts()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html)
       - [Pandas Documenation on the groupby() function](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html)
       - [Pandas Documentation on sort_values() function](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sort_values.html)
+      - [Pandas documentation on visualization](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
     - Coding
       - [Panda (adding the dependency, dictionary to dataframe, list to dataframe, working with dataframes)](https://github.com/stephenanayashilliard/Reference/blob/main/Four_Python_Pandas_Jupyter/Panda%20Practice(adding%20Dependency%2C%20dictionary%20to%20DataFrame%2C%20list%20to%20DataFrame%2C%20working%20with%20DataFrames).ipynb)
       - [Loading csv file: Direct and Indirect path; Creating a DataFrame; Find missing values; Count method; isnull(); notnull; Merging DataFrames; unique(); sum(); .mean(); Adding a list of values with keys to create a New DataFrame; Format columns; map(); format(), Reording Columns; Set the index; value_counts(); groupby(), sort_values(); sorting into bines and or ranges; decribe(); cut();](http://localhost:8889/notebooks/Desktop/Class%20Projects/School_District_Analysis/PyCitySchools.ipynb)
@@ -102,8 +103,17 @@
     - [Matplotlib CSS colors](https://matplotlib.org/3.1.1/gallery/color/named_colors.html#sphx-glr-gallery-color-named-colors-py)
     - [Matplotlib documentation on creating a pie chart using the MATLAB method](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.pie.html#matplotlib.pyplot.scatter)
     - [ Matplotlib documentation on creating a pie chart using the object-oriented interface method](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.pie.html)
+    - [Matplotlib documentation on matplotlib.pyplot.errorbar](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.errorbar.html)
+    - [Matplotlib documentation on axes.Axes.errorbar](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.errorbar.html)
+    - [Matplotlib documentation on major and minor ticks](https://matplotlib.org/3.1.0/gallery/ticks_and_spines/major_minor_demo.html)
+    - [Matplotlib_When_to_use_These_Charts](https://github.com/stephenanayashilliard/Reference/blob/main/Five_Python_Matplotlib_SciPy_Numpy/Matplotlib_When_to_use_These_Charts.docx)
+  - NumPy
+    - [NumPy website](https://numpy.org/)
+    - [SciPy page on numpy.arange](https://numpy.org/doc/stable/reference/generated/numpy.arange.html)
    - Coding
       - [Matplotlib: Line Chart; plt.show(); Bar Charts; Scatter Plot; Bubble Chart; Pie Charts](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/matplotlib_practice.ipynb)
+      - [Matplotlib: Error Bars; Adding Ticks](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/More_matplotlib_practice.ipynb)
+      - [Matplotlib:  Plot a DataFrame and Series]
   
   
 - Employment Services
