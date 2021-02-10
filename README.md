@@ -103,7 +103,7 @@
     - [Matplotlib documentation on creating a pie chart using the MATLAB method](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.pie.html#matplotlib.pyplot.scatter)
     - [ Matplotlib documentation on creating a pie chart using the object-oriented interface method](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.pie.html)
    - Coding
-    - [Matplotlib: Line Chart; plt.show(); Bar Charts; Scatter Plot; Bubble Chart; Pie Charts](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/matplotlib_practice.ipynb)
+      - [Matplotlib: Line Chart; plt.show(); Bar Charts; Scatter Plot; Bubble Chart; Pie Charts](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/matplotlib_practice.ipynb)
   
   
 - Employment Services
