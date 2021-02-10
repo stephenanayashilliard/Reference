@@ -27,7 +27,6 @@
       - [Repetition Statements (loops, while loop, for loop, range())](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Repetition%20Statements%20(loops%2C%20while%20loop%2C%20for%20loop%2C%20range()%2C).ipynb)
       - [Printing Formats (f-strings, Format Floating-Point Decimals)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Printing%20Formats%20(f-strings%2C%20Format%20Floating-Point%20Decimals).ipynb) 
       - [Python Data in VS Code](https://github.com/stephenanayashilliard/Election_Analysis/blob/master/Pypoll.py)
-      - 
   - ### VS Code (Visual Studio Code)
     - [VS Code Official Guide](https://code.visualstudio.com/docs/introvideos/basics)
   - ### GitHub
@@ -138,6 +137,9 @@
     - [datetime](https://docs.python.org/3.6/library/datetime.html)
     - [strftime()](https://docs.python.org/3.6/library/datetime.html#strftime-and-strptime-behavior)
   - ### Google Maps and Places API
+    - [Places API Usage and Billing](https://developers.google.com/places/web-service/usage-and-billing)
+    - [documentation on the gmaps dependency](https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html)
+    - [Set Up Google Maps and Places API](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Set_Up_Google_Maps_and_Places_API.docx)
   - ### Python Requests Library 
       - [Instructions on Python Request Library](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Instructions_on_Python_Request_Library.docx)
       - [Installing CitiPy](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Installing_CitiPy.docx)
