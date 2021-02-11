@@ -160,8 +160,31 @@
       - [WeatherPy: API practice; CitiPy module; datetime module; API key; import requests; build URL; create a DataFrame; Output CSV; Use Linear Regression to Find the Relationship Between Variables; Set Up Google Maps and Places API](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/WeatherPy.ipynb#Finding:)
       - [Create Heatmaps for Weather Parameters; Create a customer Prompt; Set the Parameters for a Nearby Search; Add A Pop Up Marker; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/VacationPy.ipynb)
       - [Practice Using a Fixed Latitude and Longitude](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/Google_Nearby_Search.ipynb)
-  
-  
+      
+- ## Module 7: (PostgresSQL, pgAdmin)
+  - [Pewlett_Hackard_Analysis](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis)
+  - ### PostgresSQL
+      - [Description and Set Up](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/PostgresSQL_Description_Set_UP.docx)
+      - [PostgrestSQL Download Website](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+      - [PostgresSQL Documentation](https://www.postgresql.org/docs/)
+      - [PostgresSQL Tutorial](https://www.tutorialspoint.com/postgresql/)
+      - [Documentation on PostgresSQL Joins](https://www.techonthenet.com/postgresql/joins.php)
+  - ### pgAdmin
+      - [Description and Set Up](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/pgAdmin_Description_and_Set_Up.docx)
+      - [pgAdmin Documentation](https://www.pgadmin.org/docs/)
+      - [Create Tables in SQL](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/Create_Tables_in_SQL.docx)
+      - [Import Data](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/Import_Data.docx)
+      - [Troubleshoot Imports](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/Troubleshoot_Imports.docx)
+      - [Drop A Table](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/Drop_A_Table.docx)
+      - [Count the Queries](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/Count_the_Queries.docx)
+      - [Create New Tables](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/Create_New_Tables.docx)
+      - [Export Data](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/Export_Data.docx)
+      - [Join the Tables](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/Join_the_Tables.docx)
+  - ### ERDS
+      - [Quick DBD Instruction](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/Quick%20DBD%20Instruction.docx)
+      - [Quickdatabasediagrams](https://www.quickdatabasediagrams.com/)
+      - [Entity Relationships Tutorial](https://www.entityframeworktutorial.net/entity-relationships.aspx)
+      
 - ## Employment Services
   - [Project Open Data](https://github.com/project-open-data/)
   - [Sherlock Project](https://github.com/sherlock-project/sherlock)
