@@ -185,6 +185,23 @@
       - [Quickdatabasediagrams](https://www.quickdatabasediagrams.com/)
       - [Entity Relationships Tutorial](https://www.entityframeworktutorial.net/entity-relationships.aspx)
       
+- ## Module 8: (Using ETL to Collect, Import and Process Data)
+  - [Movies-ETL](https://github.com/stephenanayashilliard/Movies-ETL)
+  - ### ETL (Extract,Transform, Load)
+      - [Intro to ETL](https://github.com/stephenanayashilliard/Reference/blob/main/Eight_ETL/Intro_to_ETL.docx)
+      - [Extracting_the_Data: (Dependencies; Import File, Load JSON into a List of Dictionaries](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/data_cleaning.ipynb)
+      - [Create a Function to Clean the Data](https://github.com/stephenanayashilliard/Reference/blob/main/Eight_ETL/Create_a_Function_to_Clean_Data.docx)
+      - [Remove Duplicate Rows](https://github.com/stephenanayashilliard/Reference/blob/main/Eight_ETL/Remove_Duplicate_Rows.docx)
+      - [Convert and Parse (Regular Expressions; ](https://github.com/stephenanayashilliard/Reference/blob/main/Eight_ETL/Convert_and_Parse.docx)
+      - [Merge the Clean Data](https://github.com/stephenanayashilliard/Reference/blob/main/Eight_ETL/Merge_the_Clean_Data.docx)
+      - [Load into a SQL Database](https://github.com/stephenanayashilliard/Reference/blob/main/Eight_ETL/Load_into_a_SQL_Database.docx)
+      - [Regex Playgrounds:  Site to work with Regular Expressions](https://regex101.com/)
+      - [Wikipediapage for "Dash"](https://en.wikipedia.org/wiki/Dash)
+      - [Create_A_Database](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/ETL_create_database.ipynb))
+      - [Clean_Wiki_Movies](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/ETL_clean_wiki_movies.ipynb)
+      - [Clean_Kaggle_Data](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/ETL_clean_kaggle_data.ipynb)
+
+      
 - ## Employment Services
   - [Project Open Data](https://github.com/project-open-data/)
   - [Sherlock Project](https://github.com/sherlock-project/sherlock)
@@ -208,3 +225,5 @@
   - [Walmart Sales Data](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data)
   - [Open Weather Map API](https://openweathermap.org/api)
   - [Google Maps Platform page](https://cloud.google.com/maps-platform/)
+  - [The Movie Database(TMDb)](https://www.themoviedb.org/)
+  - [Zip File from Kaggle](https://www.kaggle.com/account/login?titleType=dataset-downloads&showDatasetDownloadSkip=False&messageId=datasetsWelcome&returnUrl=%2Frounakbanik%2Fthe-movies-dataset%3Fresource%3Ddownload)
