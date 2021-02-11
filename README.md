@@ -19,6 +19,7 @@
     - [Python Literal String Interpolation](https://www.python.org/dev/peps/pep-0498/)
     - [Python file and directory access](https://docs.python.org/3.6/library/os.path.html)
     - [Python Using next method with CSV](https://docs.python.org/3.6/library/csv.html#reader-objects)
+    - [Python Documentation on the Python Requests Libary](https://requests.kennethreitz.org/en/master/)
    - ### Coding:
       - [Data types (creating lists, type(), len(), append(), remove(), pop(), tuples)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/lists_len_append_remove_pop_tuples.ipynb)
       - [Dictionaries](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Dictionaries.ipynb)
@@ -27,7 +28,6 @@
       - [Repetition Statements (loops, while loop, for loop, range())](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Repetition%20Statements%20(loops%2C%20while%20loop%2C%20for%20loop%2C%20range()%2C).ipynb)
       - [Printing Formats (f-strings, Format Floating-Point Decimals)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Printing%20Formats%20(f-strings%2C%20Format%20Floating-Point%20Decimals).ipynb) 
       - [Python Data in VS Code](https://github.com/stephenanayashilliard/Election_Analysis/blob/master/Pypoll.py)
-      - 
   - ### VS Code (Visual Studio Code)
     - [VS Code Official Guide](https://code.visualstudio.com/docs/introvideos/basics)
   - ### GitHub
@@ -103,7 +103,7 @@
     - [Matplotlib documentation on plotting a list of the named colors supported by Matplotlib ](https://matplotlib.org/3.1.1/gallery/color/named_colors.html)
     - [Matplotlib CSS colors](https://matplotlib.org/3.1.1/gallery/color/named_colors.html#sphx-glr-gallery-color-named-colors-py)
     - [Matplotlib documentation on creating a pie chart using the MATLAB method](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.pie.html#matplotlib.pyplot.scatter)
-    - [ Matplotlib documentation on creating a pie chart using the object-oriented interface method](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.pie.html)
+    - [Matplotlib documentation on creating a pie chart using the object-oriented interface method](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.pie.html)
     - [Matplotlib documentation on matplotlib.pyplot.errorbar](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.errorbar.html)
     - [Matplotlib documentation on axes.Axes.errorbar](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.errorbar.html)
     - [Matplotlib documentation on major and minor ticks](https://matplotlib.org/3.1.0/gallery/ticks_and_spines/major_minor_demo.html)
@@ -138,19 +138,28 @@
     - [datetime](https://docs.python.org/3.6/library/datetime.html)
     - [strftime()](https://docs.python.org/3.6/library/datetime.html#strftime-and-strptime-behavior)
   - ### Google Maps and Places API
+    - [Places API Usage and Billing](https://developers.google.com/places/web-service/usage-and-billing)
+    - [documentation on the gmaps dependency](https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html)
+    - [Set Up Google Maps and Places API](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Set_Up_Google_Maps_and_Places_API.docx)
+    - [documentation on error messages](https://developers.google.com/maps/documentation/javascript/error-messages?utm_source=maps_js&utm_medium=degraded&utm_campaign=keyless#api-key-and-billing-errors)
+    - [Google Places Nearby Search request](https://developers.google.com/places/web-service/search#PlaceSearchRequests%0D%0A)
+    - [Places Types Guide](https://developers.google.com/places/web-service/supported_types)
   - ### Python Requests Library 
       - [Instructions on Python Request Library](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Instructions_on_Python_Request_Library.docx)
       - [Installing CitiPy](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Installing_CitiPy.docx)
       - [Requests: HTTP for Humans](https://requests.kennethreitz.org/en/master/)
       - [Quickstart](https://requests.kennethreitz.org/en/master/user/quickstart/#make-a-request)
       - [try-except](https://docs.python.org/3.6/tutorial/errors.html)
+      - [Python Documentation on the Python Requests Libary](https://requests.kennethreitz.org/en/master/)
   - ### Linear Regression
       - [documentation on the linear regression function](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html#scipy.stats.linregress)
   - ### Coding
       - [Generate Random Latitudes and Longitudes Using randint(), random(), randragne(), uniform(); NumPy; timit module; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/random_numbers.ipynb#)
       - [Create Latitude and Longitude Combinations: Pandas, Matplotlib, NumPy, Time,](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/WeatherPy.ipynb#)
-      - [API_Practice: 
-      - [WeatherPy: API practice; CitiPy module; datetime module; API key; import requests; build URL; create a DataFrame; Output CSV; Use Linear Regression to Find the Relationship Between Variables; Set Up Google Maps and Places API; 
+      - [API_Practice](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/API_practice.ipynb)
+      - [WeatherPy: API practice; CitiPy module; datetime module; API key; import requests; build URL; create a DataFrame; Output CSV; Use Linear Regression to Find the Relationship Between Variables; Set Up Google Maps and Places API](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/WeatherPy.ipynb#Finding:)
+      - [Create Heatmaps for Weather Parameters; Create a customer Prompt; Set the Parameters for a Nearby Search; Add A Pop Up Marker; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/VacationPy.ipynb)
+      - [Practice Using a Fixed Latitude and Longitude](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/Google_Nearby_Search.ipynb)
   
   
 - ## Employment Services
