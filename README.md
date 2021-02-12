@@ -217,6 +217,35 @@
   - ### Coding
     - [Climate Analysis: Matplotlib Style; Datetime; SQLAlchemy (automap, session, create_engine, func); Histogram; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/Surfs_UP/climate_analysis.ipynb)
     - [app.py for Flask](https://github.com/stephenanayashilliard/Surfs_UP/blob/main/app.py)
+    - [scrape_mars_py](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/scrape_mars.py)
+    
+- ## Module 10: (Web Scraping to Extract Online Data: Splinter, BeautifulSoup, NoSQL, MongoDB) 
+  - [Mission to Mars](https://github.com/stephenanayashilliard/Mission-to-Mars)
+  - ### Splinter
+    - [Splinter, BeautifulSoup, MongoDB Install] (
+    - [Use Splinter](
+  - ### MongoDB
+    - [MongoDB Official Documentation](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+    - [MongoDB: Store the Data](
+  - ### HTML Elements
+    - [Using HTML Elements](
+    - [HTML Tags](https://www.w3schools.com/tags/tag_comment.asp)
+    - [HTML Search for Elements](
+  - ### Flask
+    - [Update the Code](
+  - ### Chrome Developer Tools
+    -[Using Chrome Developer Tools](
+    -[Export to Python: Converting to a .py file so that the website is automated](
+  - ### Coding
+    -[index.html](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/templates/index.html)
+    -[Practice using Splinter and BeautifulSoup](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Practice.ipynb)
+    -[Mission to Mars: ](http://localhost:8888/notebooks/Desktop/Class%20Projects/Mission-to-Mars/Mission_to_Mars.ipynb)
+    -[Flask: app.py](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/app.py)
+    -[Jupyter Notebook coding example for app.py](
+    -[Update the Code](
+
+
+
 
 - ## Special Sites
   - [Scaling in sk learn](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
@@ -252,6 +281,11 @@
   - [Network Contagion  Research Institute](https://networkcontagion.us/reports/network-enabled-anarchy/)
   - [Infectious Diseases Website](https://ncase.me/covid-19/)
   - [Different Kinds of Ballots](https://ncase.me/ballot/)
+  - [NASA News Webite](https://www.w3schools.com/tags/tag_comment.asp)
+  - [Quotes to Scrape](http://quotes.toscrape.com/)
+  - [Books to Scrape](http://books.toscrape.com/)
+  - [Space Images](https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html)
+  - [Mars Facts](https://space-facts.com/mars/)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
