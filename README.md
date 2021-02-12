@@ -222,27 +222,30 @@
 - ## Module 10: (Web Scraping to Extract Online Data: Splinter, BeautifulSoup, NoSQL, MongoDB) 
   - [Mission to Mars](https://github.com/stephenanayashilliard/Mission-to-Mars)
   - ### Splinter
-    - [Splinter, BeautifulSoup, MongoDB Install] (
-    - [Use Splinter](
+    - [Splinter, BeautifulSoup, MongoDB Install] (https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Splinter_BeautifulSoup_MongoDB_Install.docx)
+    - [Use Splinter](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Use_Splinter.docx)
   - ### MongoDB
     - [MongoDB Official Documentation](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
-    - [MongoDB: Store the Data](
+    - [MongoDB: Store the Data](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/MongoDB_Store_the_Data.docx)
+    - [MondgoDB: Integrate MongoDB Into the Web App](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/MondgoDB_%20Integrate_MongoDB_into_the_Web_App.docx)
   - ### HTML Elements
-    - [Using HTML Elements](
+    - [Using HTML Elements](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Using_HTML_Elements.docx)
     - [HTML Tags](https://www.w3schools.com/tags/tag_comment.asp)
-    - [HTML Search for Elements](
+    - [HTML Search for Elements](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/HTML_Search_for_Elements.docx)
+    - [HTML Customize the Appearance with HTML Template](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/HTML_Customize_the_Appearance.docx)
+    - [Official Designer Template Documentation](https://jinja.palletsprojects.com/en/2.10.x/templates/#working-with-automatic-escaping)
   - ### Flask
-    - [Update the Code](
+    - [Update the Code](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Update_the_code.docx)
   - ### Chrome Developer Tools
-    -[Using Chrome Developer Tools](
-    -[Export to Python: Converting to a .py file so that the website is automated](
+    -[Using Chrome Developer Tools](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Using_Chrome_Dev_Tools.docx)
+    -[Export to Python: Converting to a .py file so that the website is automated](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Export_to_Python.docx)
   - ### Coding
-    -[index.html](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/templates/index.html)
+    -[index.html (HTML Template](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/templates/index.html)
     -[Practice using Splinter and BeautifulSoup](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Practice.ipynb)
     -[Mission to Mars: ](http://localhost:8888/notebooks/Desktop/Class%20Projects/Mission-to-Mars/Mission_to_Mars.ipynb)
     -[Flask: app.py](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/app.py)
-    -[Jupyter Notebook coding example for app.py](
-    -[Update the Code](
+    -[Jupyter Notebook coding example for app.py](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Jupyter%20Notebook%20Coding%20example%20for%20app.py-Copy1.ipynb)
+    -[Update the Code](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Update%20the%20Code.ipynb)
 
 
 
@@ -260,6 +263,12 @@
   - [Python Explosion blamed on Pandas](https://www.theregister.com/2017/09/14/python_explosion_blamed_on_pandas/)
   - [Python Jobs](https://pythonjobs.github.io/)
   - Portfolio Websites
+    - [Create a Portfolio Instructions](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Create_a_portfolio_instructions.docx)
+    - Portfolio Templates
+      - [template 1](https://github.com/stephenanayashilliard/Reference/tree/main/Ten_Web_Scraping/portfolio-template-01)
+      - [template 2](https://github.com/stephenanayashilliard/Reference/tree/main/Ten_Web_Scraping/portfolio-template-02)
+      - [template 3](https://github.com/stephenanayashilliard/Reference/tree/main/Ten_Web_Scraping/portfolio-template-03)
+      - [Google Fonts](https://developers.google.com/fonts/docs/getting_started)
     - [10 Fantastic Portfolio Websites](https://bestfolios.medium.com/10-fantastic-portfolio-websites-from-silicon-valley-design-leads-2d84b384dba6)
     - [One Page Portfolio Websites](https://bestfolios.medium.com/10-fantastic-portfolio-websites-from-silicon-valley-design-leads-2d84b384dba6)
   - Testing your skills
