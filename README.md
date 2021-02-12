@@ -222,7 +222,7 @@
 - ## Module 10: (Web Scraping to Extract Online Data: Splinter, BeautifulSoup, NoSQL, MongoDB) 
   - [Mission to Mars](https://github.com/stephenanayashilliard/Mission-to-Mars)
   - ### Splinter
-    - [Splinter, BeautifulSoup, MongoDB Install] (https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Splinter_BeautifulSoup_MongoDB_Install.docx)
+    - [Splinter, BeautifulSoup, MongoDB Install](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Splinter_BeautifulSoup_MongoDB_Install.docx)
     - [Use Splinter](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Use_Splinter.docx)
   - ### MongoDB
     - [MongoDB Official Documentation](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
