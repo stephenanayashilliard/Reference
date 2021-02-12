@@ -237,15 +237,15 @@
   - ### Flask
     - [Update the Code](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Update_the_code.docx)
   - ### Chrome Developer Tools
-    -[Using Chrome Developer Tools](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Using_Chrome_Dev_Tools.docx)
-    -[Converting to a .py file so that the website is automated](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Export_to_Python.docx)
+    - [Using Chrome Developer Tools](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Using_Chrome_Dev_Tools.docx)
+    - [Converting to a .py file so that the website is automated](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Export_to_Python.docx)
   - ### Coding
-    -[index.html (HTML Template](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/templates/index.html)
-    -[Practice using Splinter and BeautifulSoup](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Practice.ipynb)
-    -[Mission to Mars: ](http://localhost:8888/notebooks/Desktop/Class%20Projects/Mission-to-Mars/Mission_to_Mars.ipynb)
-    -[Flask: app.py](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/app.py)
-    -[Jupyter Notebook coding example for app.py](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Jupyter%20Notebook%20Coding%20example%20for%20app.py-Copy1.ipynb)
-    -[Update the Code](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Update%20the%20Code.ipynb)
+    - [index.html (HTML Template](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/templates/index.html)
+    - [Practice using Splinter and BeautifulSoup](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Practice.ipynb)
+    - [Mission to Mars: ](http://localhost:8888/notebooks/Desktop/Class%20Projects/Mission-to-Mars/Mission_to_Mars.ipynb)
+    - [Flask: app.py](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/app.py)
+    - [Jupyter Notebook coding example for app](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Jupyter%20Notebook%20Coding%20example%20for%20app.py-Copy1.ipynb)
+    - [Update the Code](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Update%20the%20Code.ipynb)
 
 
 
