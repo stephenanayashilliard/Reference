@@ -238,7 +238,7 @@
     - [Update the Code](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Update_the_code.docx)
   - ### Chrome Developer Tools
     -[Using Chrome Developer Tools](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Using_Chrome_Dev_Tools.docx)
-    -[Export to Python: Converting to a .py file so that the website is automated](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Export_to_Python.docx)
+    -[Converting to a .py file so that the website is automated](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Export_to_Python.docx)
   - ### Coding
     -[index.html (HTML Template](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/templates/index.html)
     -[Practice using Splinter and BeautifulSoup](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Practice.ipynb)
