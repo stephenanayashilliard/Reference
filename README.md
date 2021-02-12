@@ -20,6 +20,8 @@
     - [Python file and directory access](https://docs.python.org/3.6/library/os.path.html)
     - [Python Using next method with CSV](https://docs.python.org/3.6/library/csv.html#reader-objects)
     - [Python Documentation on the Python Requests Libary](https://requests.kennethreitz.org/en/master/)
+    - [Python Package Index](https://pypi.org/)
+    - [Python Article on Magic Methods](https://www.geeksforgeeks.org/dunder-magic-methods-python/)
    - ### Coding:
       - [Data types (creating lists, type(), len(), append(), remove(), pop(), tuples)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/lists_len_append_remove_pop_tuples.ipynb)
       - [Dictionaries](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Dictionaries.ipynb)
@@ -114,6 +116,7 @@
     - [Matplotlib documentation on box plots](https://matplotlib.org/examples/statistics/boxplot_demo.html)
     - [Matplotlib documentation on customizing Matplotlib with style sheets and rcParams](https://matplotlib.org/tutorials/introductory/customizing.html)
     - [Matplotlib_When_to_use_These_Charts](https://github.com/stephenanayashilliard/Reference/blob/main/Five_Python_Matplotlib_SciPy_Numpy/Matplotlib_When_to_use_These_Charts.docx)
+    - [Matplotlib:FiveThirtyEight Style Sheet](https://matplotlib.org/3.1.1/gallery/style_sheets/fivethirtyeight.html)
   - ### NumPy
     - [NumPy website](https://numpy.org/)
     - [SciPy page on numpy.arange](https://numpy.org/doc/stable/reference/generated/numpy.arange.html)
@@ -197,23 +200,36 @@
       - [Load into a SQL Database](https://github.com/stephenanayashilliard/Reference/blob/main/Eight_ETL/Load_into_a_SQL_Database.docx)
       - [Regex Playgrounds:  Site to work with Regular Expressions](https://regex101.com/)
       - [Wikipediapage for "Dash"](https://en.wikipedia.org/wiki/Dash)
+   - ### Coding
       - [Create_A_Database](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/ETL_create_database.ipynb))
       - [Clean_Wiki_Movies](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/ETL_clean_wiki_movies.ipynb)
       - [Clean_Kaggle_Data](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/ETL_clean_kaggle_data.ipynb)
       
-- ## Module 9: (Python, SQLite, SQLAlchemy, Flask)
+- ## Module 9: (Python, VS Code, SQLite, SQLAlchemy, Flask)
+  - [Surfs_Up](https://github.com/stephenanayashilliard/Surfs_UP)
+  - ### SQLite
+    - [Getting Started with SQLite](https://github.com/stephenanayashilliard/Reference/blob/main/Nine_Python_VScode_SQLite%2C_SQLAlchemy%2C_Flask/Getting_Started_With_SQLite.docx)
+  - ### SQLAlchemy
+    - [Getting Started with SQLAlchemy](https://github.com/stephenanayashilliard/Reference/blob/main/Nine_Python_VScode_SQLite%2C_SQLAlchemy%2C_Flask/Getting_Started_with_SQLAlchemy.docx)
+  - ### Flask
+    - [Getting Started with Flask](https://github.com/stephenanayashilliard/Reference/blob/main/Nine_Python_VScode_SQLite%2C_SQLAlchemy%2C_Flask/Getting_Started_With_Flask.docx)
+    - [Set Up Database and Flask, app.py](https://github.com/stephenanayashilliard/Reference/blob/main/Nine_Python_VScode_SQLite%2C_SQLAlchemy%2C_Flask/Set_Up_Database_and_Flask.docx)
+  - ### Coding
+    - [Climate Analysis: Matplotlib Style; Datetime; SQLAlchemy (automap, session, create_engine, func); Histogram; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/Surfs_UP/climate_analysis.ipynb)
+    - [app.py for Flask](https://github.com/stephenanayashilliard/Surfs_UP/blob/main/app.py)
 
 - ## Special Sites
   - [Scaling in sk learn](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
   - [Standard Scaler Vs Minmaxscaler](https://stackoverflow.com/questions/51237635/difference-between-standard-scaler-and-minmaxscaler)
+  - [Improve Your Analytics Projects w/ These Data Distributions Visualizations](https://towardsdatascience.com/improve-your-analytics-projects-w-these-data-distributions-visualizations-7ba3821f2092)
 
-      
 - ## Employment Services
   - [Project Open Data](https://github.com/project-open-data/)
   - [Sherlock Project](https://github.com/sherlock-project/sherlock)
   - [salaryexpert.com](https://www.salaryexpert.com/)
   - [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019)
   - [Python Explosion blamed on Pandas](https://www.theregister.com/2017/09/14/python_explosion_blamed_on_pandas/)
+  - [Python Jobs](https://pythonjobs.github.io/)
   - Portfolio Websites
     - [10 Fantastic Portfolio Websites](https://bestfolios.medium.com/10-fantastic-portfolio-websites-from-silicon-valley-design-leads-2d84b384dba6)
     - [One Page Portfolio Websites](https://bestfolios.medium.com/10-fantastic-portfolio-websites-from-silicon-valley-design-leads-2d84b384dba6)
@@ -233,6 +249,9 @@
   - [Google Maps Platform page](https://cloud.google.com/maps-platform/)
   - [The Movie Database(TMDb)](https://www.themoviedb.org/)
   - [Zip File from Kaggle](https://www.kaggle.com/account/login?titleType=dataset-downloads&showDatasetDownloadSkip=False&messageId=datasetsWelcome&returnUrl=%2Frounakbanik%2Fthe-movies-dataset%3Fresource%3Ddownload)
+  - [Network Contagion  Research Institute](https://networkcontagion.us/reports/network-enabled-anarchy/)
+  - [Infectious Diseases Website](https://ncase.me/covid-19/)
+  - [Different Kinds of Ballots](https://ncase.me/ballot/)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
