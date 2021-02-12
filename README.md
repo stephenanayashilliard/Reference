@@ -161,7 +161,7 @@
       - [Create Heatmaps for Weather Parameters; Create a customer Prompt; Set the Parameters for a Nearby Search; Add A Pop Up Marker; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/VacationPy.ipynb)
       - [Practice Using a Fixed Latitude and Longitude](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/Google_Nearby_Search.ipynb)
       
-- ## Module 7: (PostgresSQL, pgAdmin)
+- ## Module 7: (Python, PostgresSQL, pgAdmin)
   - [Pewlett_Hackard_Analysis](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis)
   - ### PostgresSQL
       - [Description and Set Up](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/PostgresSQL_Description_Set_UP.docx)
@@ -185,7 +185,7 @@
       - [Quickdatabasediagrams](https://www.quickdatabasediagrams.com/)
       - [Entity Relationships Tutorial](https://www.entityframeworktutorial.net/entity-relationships.aspx)
       
-- ## Module 8: (Using ETL to Collect, Import and Process Data)
+- ## Module 8: (Python, Using ETL to Collect, Import and Process Data)
   - [Movies-ETL](https://github.com/stephenanayashilliard/Movies-ETL)
   - ### ETL (Extract,Transform, Load)
       - [Intro to ETL](https://github.com/stephenanayashilliard/Reference/blob/main/Eight_ETL/Intro_to_ETL.docx)
@@ -200,6 +200,12 @@
       - [Create_A_Database](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/ETL_create_database.ipynb))
       - [Clean_Wiki_Movies](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/ETL_clean_wiki_movies.ipynb)
       - [Clean_Kaggle_Data](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/ETL_clean_kaggle_data.ipynb)
+      
+- ## Module 9: (Python, SQLite, SQLAlchemy, Flask)
+
+- ## Special Sites
+  - [Scaling in sk learn](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
+  - [Standard Scaler Vs Minmaxscaler](https://stackoverflow.com/questions/51237635/difference-between-standard-scaler-and-minmaxscaler)
 
       
 - ## Employment Services
@@ -227,3 +233,7 @@
   - [Google Maps Platform page](https://cloud.google.com/maps-platform/)
   - [The Movie Database(TMDb)](https://www.themoviedb.org/)
   - [Zip File from Kaggle](https://www.kaggle.com/account/login?titleType=dataset-downloads&showDatasetDownloadSkip=False&messageId=datasetsWelcome&returnUrl=%2Frounakbanik%2Fthe-movies-dataset%3Fresource%3Ddownload)
+  
+- ## Interesting Reads
+  - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
+
