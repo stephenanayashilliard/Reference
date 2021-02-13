@@ -264,8 +264,10 @@
       - [Add Filters](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Add_Filters.docx)
       - [Listen for the Event](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Listen_for_the_Event.docx)
       - [Build the Final Table](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Build_the_Final_Table.docx)
-     - JavaScript Reference Materials
+    - JavaScript Reference Materials
       - [JavaScript - Double Equals vs Triple Equals](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
+      - [D3.js](https://d3js.org/)
+      - [Chart.js(https://www.chartjs.org/)
    - ### Bootstrap Components (index.html)
     - Building the Webpage Step by Step
       - [Bootstrap Components](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Bootstrap_Components.docx)
@@ -279,8 +281,8 @@
     - ### CSS Components and stylesheet (style.css)
       - [Customize the Page with CSS](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Customize_Page_with_CSS.docx)
     - ### Coding
-    - [app.js (downloading the data and converting it; functions; dynamic tables; filter;](https://github.com/stephenanayashilliard/UFO/blob/main/static/js/app.js)
-    - [index.html](Build the Webpage)](https://github.com/stephenanayashilliard/UFO/blob/main/static/index.html)
+    - [app.js; downloading the data and converting it; functions; dynamic tables; filter](https://github.com/stephenanayashilliard/UFO/blob/main/static/js/app.js)
+    - [index.html: Build the Webpage](https://github.com/stephenanayashilliard/UFO/blob/main/static/index.html)
     - [style.css](https://github.com/stephenanayashilliard/UFO/blob/main/static/css/style.css)
 
 - ## Module 12
