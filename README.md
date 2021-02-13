@@ -378,8 +378,8 @@
   - [Books to Scrape](http://books.toscrape.com/)
   - [Space Images](https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html)
   - [Mars Facts](https://space-facts.com/mars/)
-  - [Kaggle](
-  - [data.world](
+  - [Kaggle](https://www.kaggle.com/)
+  - [data.world](https://data.world/)
   - [National Ecological Observatory Network (NEON](https://data.neonscience.org/data-products/explore)
   - [the National Snow and Ice Data Center(NSICD)](https://nsidc.org/data/search/#keywords=permafrost/sortKeys=score,,desc/facetFilters=%257B%257D/pageNumber=1/itemsPerPage=25)
   
