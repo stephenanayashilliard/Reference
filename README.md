@@ -267,7 +267,7 @@
     - JavaScript Reference Materials
       - [JavaScript - Double Equals vs Triple Equals](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
       - [D3.js](https://d3js.org/)
-      - [Chart.js(https://www.chartjs.org/)
+      - [Chart.js](https://www.chartjs.org/)
    - ### Bootstrap Components (index.html)
     - Building the Webpage Step by Step
       - [Bootstrap Components](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Bootstrap_Components.docx)
