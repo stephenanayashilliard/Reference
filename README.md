@@ -36,6 +36,7 @@
     - [Github Documentation: Authentication](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
     - [Github Documentation: Basic Writing and Formatting](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
     - [Github: modifying your gitignore file](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Modify_the_gitignore_file.docx)
+    - [Github: Reference Guide](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Supplementary_%2BGitHub%20(1).pdf)
 
 - ## Module 4: Python (Pandas, Anaconda, Juptyer Notebook)
   - [School_District_Analyas](https://github.com/stephenanayashilliard/School_District_Analysis)
@@ -266,6 +267,32 @@
 - ## Module 19
 
 - ## Module 20
+  - [Final Project]
+  - [Rubric for the entire Final Project](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Module%2B20%2B-Full%2BRubric_Final%2BProject%20(1).pdf)
+  - # Project Road Map
+    [First_Segment_Rubric](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Module%2B20%2B-Project%2BRubrics%2B-%2BSegment%2B1.pdf)
+    - First Segment: Sketch it Out
+      - Decide on your overall project, select your question, and build a simple model. You'll connect the model to a fabricated database, using comma-separated values (CSV) or JavaScript Object Notation (JSON) files, to prototype your idea.
+        - Team Members
+          - Square: The team member in the square role will be responsible for the repository.
+          - Triangle: The member in the triangle role will create a mockup of a machine learning model. This can even be a diagram that explains how it will work concurrently with the rest of the project steps.
+          - Circle: The member in the circle role will create a mockup of a database with a set of sample data, or even fabricated data. This will ensure the database will work seamlessly with the rest of the project.
+          - X: The member in the X role will decide which technologies will be used for each step of the project.
+        - [GitHub Repository](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/GitHub_Repository.docx)
+        - [GitHub Set Up Your Branches](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/GitHub_Set_Up_Your_Branches.docx)
+        - [Create Simple Machine](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Creating_Simple_Machine_Learing_Model.docx)
+        - [Mockup Database](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Mockup_Database.docx)
+        - [What technology are we using](
+    - Second Segment: Build your Pieces
+      - Train your model and build out the database you'll use for your final presentation.
+        - [Database Integration](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Database_Integration.docx)
+    - Third Segment:  Plut it in
+      - Connect your final database to your model, continue to train your model, and create your dashboard and presentation.
+        - [Machine Learning Model](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Machine_Learning.docx)
+    - Fourth Segment: Put it all together
+      - Put the final touches on your model, database, and dashboard. Lastly, create and deliver your final presentation to your class.
+        - [Dashboard](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Dashboard.docx)
+        - [Presentation](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Presentation.docx)
 
 
 
@@ -316,7 +343,10 @@
   - [Books to Scrape](http://books.toscrape.com/)
   - [Space Images](https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html)
   - [Mars Facts](https://space-facts.com/mars/)
+  - [Kaggle](
+  - [data.world](
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
+  - [The Impostor Syndrome and How to Handle it](https://www.psychologytoday.com/us/blog/adaptation/201611/the-impostor-syndrome-and-how-handle-it)
 
