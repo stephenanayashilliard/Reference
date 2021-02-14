@@ -291,8 +291,7 @@
 
 - ## Module 14
 
-- ## Module 15: Statistcs and R 
-  - In in this module:  Python, R (R analysis scripts or RScripts), RStudio, tidyverse
+- ## Module 15: Statistcs and R (Python, RScripts, RStudio, tidyverse, ggplot2)
   - [MechaCar_Statistical_Analysis](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis)
   - ### R
     - [Intro to R and RStudio](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Introduction%20to%20R.docx)
@@ -301,11 +300,11 @@
     - [Reading and Writing Using R](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Reading_and_Writing_Using_R.docx)
     - [Functions in R](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Functions_in_R.docx)
     - [Select Data in R](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Select_Data_in_R.docx)
-      - [Operators Chart for R)[https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Operators_Chart_for_R.docx0
+      - [Operators Chart for R](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Operators_Chart_for_R.docx)
     - [Transform, Group, Reshape Data](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Transform_Group_Reshape_Data.docx)
-      - Documentaion
-      - [R's Comprehensive R Archive Network (CRAN) server](https://cran.r-project.org/mirrors.html)
-      - [R Introduction Documentation](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
+      - Documentation
+        - [R's Comprehensive R Archive Network (CRAN) server](https://cran.r-project.org/mirrors.html)
+        - [R Introduction Documentation](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
   - ### RStudio
     - [Intalling RStudio](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Installing_RStudio.docx)
       - [RStudio Download Page](https://rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download)
@@ -344,8 +343,8 @@
       - Test for Normality
         - [Qualitative_Test_for_Normality](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Qualitative_Test_for_Normality.docx)
         - [Quantitative_Test_for_Normality](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Quantitative_Test_for_Normality.docx)
-      - Understand Skew
-      When dealing with relatively smaller sample sizes, our data distributions are often asymmetrical. Compared to the normal distribution, where each tail of the distribution (on either side of the mean μ) mirrors one another, the asymmetrical distribution has one distribution tail that is longer than the other. This asymmetrical distribution is commonly referred to as a skewed distribution and there are two types—left skew and right skew.
+      - Understand Skew:
+        - When dealing with relatively smaller sample sizes, our data distributions are often asymmetrical. Compared to the normal distribution, where each tail of the distribution (on either side of the mean μ) mirrors one another, the asymmetrical distribution has one distribution tail that is longer than the other. This asymmetrical distribution is commonly referred to as a skewed distribution and there are two types—left skew and right skew.
         - [Skew](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Skew.docx)
      - Hypothesis Testing 
       - [Practice_Hypothesis_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Practice_Hypothesis_Testing.docx)
