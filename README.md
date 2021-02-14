@@ -424,6 +424,7 @@
   - [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019)
   - [Python Explosion blamed on Pandas](https://www.theregister.com/2017/09/14/python_explosion_blamed_on_pandas/)
   - [Python Jobs](https://pythonjobs.github.io/)
+  - [TIOBE Index: Measure of Coding Language Popularity](https://www.tiobe.com/tiobe-index/)
   - Portfolio Websites
     - [Create a Portfolio Instructions](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Create_a_portfolio_instructions.docx)
     - Portfolio Templates
