@@ -248,7 +248,42 @@
     - [Jupyter Notebook coding example for app](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Jupyter%20Notebook%20Coding%20example%20for%20app.py-Copy1.ipynb)
     - [Update the Code](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Update%20the%20Code.ipynb)
     
-- ## Module 11
+- ## Module 11: (JavaScript, VS Code, HTML, Bootstrap)
+  - [UFO](https://github.com/stephenanayashilliard/UFO)
+  - ### JavaScript (app.js)
+    - [Overview of ES6+](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Overiew_of_ES6%2B.docx)
+    - [JavaScript in the Real World](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/JavaScript_in_the_Real_World.docx)
+    - JavaScript:  Step by Step
+      - [Writing JavaScript](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Writing_JavaScript.docx)
+      - [Organize your Repository](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Organize_your_Repository.docx)
+      - [Storyboarding](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Storyboarding.docx)
+      - [Align the code](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Align_the_Code.docx)
+      - [JavaScript Functions](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/JavaScript_Functions.docx)
+      - [Introduction to Dynamic Tables](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Introduction_to_Dynamic_Tables.docx)
+      - [Add the forEach Function](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Add_the_forEach_Function.docx)
+      - [Add Filters](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Add_Filters.docx)
+      - [Listen for the Event](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Listen_for_the_Event.docx)
+      - [Build the Final Table](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Build_the_Final_Table.docx)
+    - JavaScript Reference Materials
+      - [JavaScript - Double Equals vs Triple Equals](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
+      - [D3.js](https://d3js.org/)
+      - [Chart.js](https://www.chartjs.org/)
+   - ### Bootstrap Components (index.html)
+    - Building the Webpage Step by Step
+      - [Bootstrap Components](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Bootstrap_Components.docx)
+      - [Bootstrap Grid System](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Bootstrap_Grid_System.docx)
+      - [Build the Navbar](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Build_the_Navbar.docx)
+      - [Add the Jumbotron](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Add_the_Jumbotron.docx)
+      - [Add the Article Title and Paragraph](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Add_the_Article_Title_and_Paragraph.docx)
+      - [Create the Table Filter](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Create_the_Table_Filter.docx)
+      - [Prep the Table for Data](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Prep_the_Table_for_Data.docx)
+      - [Add the Data](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Add_the_Data.docx)
+    - ### CSS Components and stylesheet (style.css)
+      - [Customize the Page with CSS](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Customize_Page_with_CSS.docx)
+    - ### Coding
+    - [app.js; downloading the data and converting it; functions; dynamic tables; filter](https://github.com/stephenanayashilliard/UFO/blob/main/static/js/app.js)
+    - [index.html: Build the Webpage](https://github.com/stephenanayashilliard/UFO/blob/main/static/index.html)
+    - [style.css](https://github.com/stephenanayashilliard/UFO/blob/main/static/css/style.css)
 
 - ## Module 12
 
@@ -343,8 +378,10 @@
   - [Books to Scrape](http://books.toscrape.com/)
   - [Space Images](https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html)
   - [Mars Facts](https://space-facts.com/mars/)
-  - [Kaggle](
-  - [data.world](
+  - [Kaggle](https://www.kaggle.com/)
+  - [data.world](https://data.world/)
+  - [National Ecological Observatory Network (NEON](https://data.neonscience.org/data-products/explore)
+  - [the National Snow and Ice Data Center(NSICD)](https://nsidc.org/data/search/#keywords=permafrost/sortKeys=score,,desc/facetFilters=%257B%257D/pageNumber=1/itemsPerPage=25)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
