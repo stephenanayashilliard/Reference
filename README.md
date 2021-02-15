@@ -532,6 +532,12 @@
   - [McDonald's](https://corporate.mcdonalds.com/corpmcd/our-company/where-we-operate.html)
   - [Netfliz](https://aws.amazon.com/solutions/case-studies/netflix/)
   - [Amazon Review Datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+  - [Arcgis.com Easy to configure cloe platform for data](https://hub.arcgis.com/search?collection=Dataset)
+  - [Data.gov](https://www.data.gov/)
+  - [coronavirus.gov](https://www.coronavirus.gov/)
+  - [USDA Open Data Catalog](https://www.usgs.gov/products/data-and-tools/real-time-data)
+  - [USGS data-and-tools, real-time-data](https://www.usgs.gov/products/data-and-tools/real-time-data)
+  - [Census](https://data.census.gov/cedsci/)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
