@@ -370,9 +370,27 @@
    - ### Coding
     - [MechCare_Statistical_Analysis](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis/blob/main/MechCarChallenge.R)
     
+- ## Module 16: Big Data, Hadoop, MapReduce, PySpark, Natural Language Processing (NLP), Amazon Web Services (AWS)
+  - [Amazon_Vine_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
+  - ### Big Data
+    - [What_Is_Big_Data](
+  - ###  Apache Hadoop
+    Apache Hadoop (Hadoop) is one of the most popular open source frameworks, with numerous technologies for big data. Google developed Hadoop to process large amounts of data by splitting data across a distributed file system.
+    - #### Hadoop Distributed File System (HDFS)
+      a file system used to store data across server clusters (groups of computers). It is scalable (which means it handles influxes of data), fault-tolerant (handles hardware failure), and distributed (spread across multiple servers connected by a common core).
+    - #### Map Reduce
+    Programming model and processing technique for big data. MapReduce enables processing the large amount of data spread across the cluster in the HDFS by performing the same task for each file system.
+    - #### YARN (Yet Another Resource Negotiator)
+    Manages and allocates resources across the clusters and assigns tasks.
     
+    -
+  - ### Coding
+    - [Amazon_Reviews_ETL](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Amazon_Reviews_ETL.ipynb)
+    - [Vine_review_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
 
-- ## Module 16
+
+
+
 
 - ## Module 17
 
@@ -459,6 +477,9 @@
   - [National Ecological Observatory Network (NEON](https://data.neonscience.org/data-products/explore)
   - [the National Snow and Ice Data Center(NSICD)](https://nsidc.org/data/search/#keywords=permafrost/sortKeys=score,,desc/facetFilters=%257B%257D/pageNumber=1/itemsPerPage=25)
   - [Poverty_Action_Lab: Apply filters to see what data is available](https://www.povertyactionlab.org/evaluations)
+  - [Financial Industry Regulatory Authority (FINRA)](https://aws.amazon.com/solutions/case-studies/finra/)
+  - [McDonald's](https://corporate.mcdonalds.com/corpmcd/our-company/where-we-operate.html)
+  - [Netfliz](https://aws.amazon.com/solutions/case-studies/netflix/)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
