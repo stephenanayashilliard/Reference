@@ -349,13 +349,13 @@
         - When dealing with relatively smaller sample sizes, our data distributions are often asymmetrical. Compared to the normal distribution, where each tail of the distribution (on either side of the mean μ) mirrors one another, the asymmetrical distribution has one distribution tail that is longer than the other. This asymmetrical distribution is commonly referred to as a skewed distribution and there are two types—left skew and right skew.
         - [Skew](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Skew.docx)
      - Hypothesis Testing 
-      - [Practice_Hypothesis_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Practice_Hypothesis_Testing.docx)
+        - [Practice_Hypothesis_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Practice_Hypothesis_Testing.docx)
         - [Significance Level p-value chart](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Significance_Level_p-value_chart.docx)
-      - [Assess_Error_in_Hypothesis_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Assess_Error_in_Hypothesis_Testing.docx)
-      - [Sample_Versus_Population_Dataset](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Sample_Versus_Population_Dataset.docx)
-        - [One-Sample_t-Test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/One-Sample_t-Test.docx)
-        - [Two-Sample_t-test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Two-Sample_t-test.docx)
-        - [ANOVA_Test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/ANOVA_Test.docx)
+        - [Assess_Error_in_Hypothesis_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Assess_Error_in_Hypothesis_Testing.docx)
+        - [Sample_Versus_Population_Dataset](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Sample_Versus_Population_Dataset.docx)
+          - [One-Sample_t-Test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/One-Sample_t-Test.docx)
+          - [Two-Sample_t-test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Two-Sample_t-test.docx)
+          - [ANOVA_Test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/ANOVA_Test.docx)
       - Correlation Analysis
         - [Correlation_Analyis](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Correlation_Analyis.docx)
         - Linear Regression
