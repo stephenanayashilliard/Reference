@@ -291,9 +291,106 @@
 
 - ## Module 14
 
-- ## Module 15
+- ## Module 15: Statistcs and R (Python, RScripts, RStudio, tidyverse, ggplot2)
+  - [MechaCar_Statistical_Analysis](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis)
+  - ### R
+    - [Intro to R and RStudio](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Introduction%20to%20R.docx)
+    - [Installing R](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Installing_R.docx)
+    - [Fundamentals of R Programming](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Fundamentals_of_R_Programming.docx)
+    - [Reading and Writing Using R](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Reading_and_Writing_Using_R.docx)
+    - [Functions in R](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Functions_in_R.docx)
+    - [Select Data in R](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Select_Data_in_R.docx)
+      - [Operators Chart for R](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Operators_Chart_for_R.docx)
+    - [Transform, Group, Reshape Data](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Transform_Group_Reshape_Data.docx)
+      - Documentation
+        - [R's Comprehensive R Archive Network (CRAN) server](https://cran.r-project.org/mirrors.html)
+        - [R Introduction Documentation](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
+  - ### RStudio
+    - [Intalling RStudio](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Installing_RStudio.docx)
+      - [RStudio Download Page](https://rstudio.com/products/rstudio/download/?utm_source=downloadrstudio&utm_medium=Site&utm_campaign=home-hero-cta#download)
+      - [RStudio Data Visualization ggplot2 Cheat Sheet](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+  - ### TidyVerse Library
+      - [tidyverse](https://www.tidyverse.org/)
+      - [Tidyverse's dplyr library](https://dplyr.tidyverse.org/)
+  - ### ggplot 2
+    - [Introduction to ggplot2](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Introduction_to_ggplot2.docx)
+      - [GGplot2 Library with cheat sheet](https://ggplot2.tidyverse.org/)
+      - [GGplot2 Documentation](https://ggplot2.tidyverse.org/reference/index.html)
+      - [RStudio Data Visualization ggplot2 Cheat Sheet](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+    - [Bar Plot in ggplot2](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Bar_Plot_in_ggplot2.docx)
+      - [GGplot2 Documentation: Change orderor direction of axes](http://www.cookbook-r.com/Graphs/Axes_(ggplot2)/)
+      - [GGplot2 Documentation: Rotating and spacing axis lables in ggplot2](https://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-ggplot2)
+    - [Line Plot in ggplot2](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Line_Plot_in_ggplot2.docx)
+      - [GGplot2 Documentation: geom_point](https://ggplot2.tidyverse.org/reference/geom_point.html#aesthetics)
+    - [Boxplots in ggplot2](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Boxplots_in_ggplot2.docx)
+      - [ggplot2 Documentation: geom_boxplot](https://ggplot2.tidyverse.org/reference/geom_boxplot.html)
+      - [GGplot2 Documentation: geom_boxplot aesthetics](https://ggplot2.tidyverse.org/reference/geom_boxplot.html#aesthetics)
+    - [Heatmap Plots in ggplot2](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Heatmap_Plots_in_ggplot2.docx)
+    - [Add Layers to Plots](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Add_Layers_to_Plots.docx)
+  - ### Statistical Test Types
+    - [Identifying_Statistical_Test_Types](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Identifying_Statistical_Test_Types.docx)
+      - [Statistical_Test_Lookup_Table}](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Statistical_Test_Lookup_Table.docx)
+      - [Stats Cheat Sheet](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Stats_Cheat_Sheet%20(4).pdf)
+    - [Identify_Differenct_Data_Types](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Identify_Differenct_Data_Types.docx)
+      - [Likert Scale](https://en.wikipedia.org/wiki/Likert_scale)
+      - [Mann-Whitney U Test](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test)
+        - [Mann-Whitney Calculator](https://www.socscistatistics.com/tests/mannwhitney/)
+      - [Kruskal_Wallis H Test](https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance)
+        - [Kurskal Wallis Calculator](https://www.socscistatistics.com/tests/kruskal/default.aspx)
+    - [Getting_Oriented_with_Data](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Getting_Oriented_with_Data.docx)
+    - Distributions
+      - [Normal_Distribution](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Normal_Distribution.docx)
+      - Test for Normality
+        - [Qualitative_Test_for_Normality](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Qualitative_Test_for_Normality.docx)
+        - [Quantitative_Test_for_Normality](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Quantitative_Test_for_Normality.docx)
+      - Understand Skew:
+        - When dealing with relatively smaller sample sizes, our data distributions are often asymmetrical. Compared to the normal distribution, where each tail of the distribution (on either side of the mean μ) mirrors one another, the asymmetrical distribution has one distribution tail that is longer than the other. This asymmetrical distribution is commonly referred to as a skewed distribution and there are two types—left skew and right skew.
+        - [Skew](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Skew.docx)
+     - Hypothesis Testing 
+      - [Practice_Hypothesis_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Practice_Hypothesis_Testing.docx)
+        - [Significance Level p-value chart](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Significance_Level_p-value_chart.docx)
+      - [Assess_Error_in_Hypothesis_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Assess_Error_in_Hypothesis_Testing.docx)
+      - [Sample_Versus_Population_Dataset](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Sample_Versus_Population_Dataset.docx)
+        - [One-Sample_t-Test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/One-Sample_t-Test.docx)
+        - [Two-Sample_t-test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Two-Sample_t-test.docx)
+        - [ANOVA_Test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/ANOVA_Test.docx)
+      - Correlation Analysis
+        - [Correlation_Analyis](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Correlation_Analyis.docx)
+        - Linear Regression
+          - [Linear_Regression](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Linear_Regression.docx)
+          - [Multiple_Linear_Regression](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Multiple_Linear_Regression.docx)
+      - Categorical Data
+        - [Categorical_Data and the Chi-squared test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Categorical_Data.docx)
+      - A/B Testing
+        - [A/B_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/A%20B_Testing.docx)
+      - Retrospective Analysis
+        - [Retrospective_Analysis](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Retrospective_Analysis.docx)
+      - Statistical Documenation
+        - [Interpretation](https://www.statisticssolutions.com/statistical-power-analysis/)
+   - ### Coding
+    - [MechCare_Statistical_Analysis](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis/blob/main/MechCarChallenge.R)
+    
+- ## Module 16: Big Data, Hadoop, MapReduce, PySpark, Natural Language Processing (NLP), Amazon Web Services (AWS)
+  - [Amazon_Vine_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
+  - ### Big Data
+    - [What_Is_Big_Data](
+  - ###  Apache Hadoop
+    Apache Hadoop (Hadoop) is one of the most popular open source frameworks, with numerous technologies for big data. Google developed Hadoop to process large amounts of data by splitting data across a distributed file system.
+    - #### Hadoop Distributed File System (HDFS)
+      a file system used to store data across server clusters (groups of computers). It is scalable (which means it handles influxes of data), fault-tolerant (handles hardware failure), and distributed (spread across multiple servers connected by a common core).
+    - #### Map Reduce
+    Programming model and processing technique for big data. MapReduce enables processing the large amount of data spread across the cluster in the HDFS by performing the same task for each file system.
+    - #### YARN (Yet Another Resource Negotiator)
+    Manages and allocates resources across the clusters and assigns tasks.
+    
+    -
+  - ### Coding
+    - [Amazon_Reviews_ETL](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Amazon_Reviews_ETL.ipynb)
+    - [Vine_review_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
 
-- ## Module 16
+
+
+
 
 - ## Module 17
 
@@ -329,10 +426,6 @@
         - [Dashboard](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Dashboard.docx)
         - [Presentation](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Presentation.docx)
 
-
-
-
-
 - ## Special Sites
   - [Scaling in sk learn](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
   - [Standard Scaler Vs Minmaxscaler](https://stackoverflow.com/questions/51237635/difference-between-standard-scaler-and-minmaxscaler)
@@ -345,6 +438,7 @@
   - [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019)
   - [Python Explosion blamed on Pandas](https://www.theregister.com/2017/09/14/python_explosion_blamed_on_pandas/)
   - [Python Jobs](https://pythonjobs.github.io/)
+  - [TIOBE Index: Measure of Coding Language Popularity](https://www.tiobe.com/tiobe-index/)
   - Portfolio Websites
     - [Create a Portfolio Instructions](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Create_a_portfolio_instructions.docx)
     - Portfolio Templates
@@ -382,6 +476,10 @@
   - [data.world](https://data.world/)
   - [National Ecological Observatory Network (NEON](https://data.neonscience.org/data-products/explore)
   - [the National Snow and Ice Data Center(NSICD)](https://nsidc.org/data/search/#keywords=permafrost/sortKeys=score,,desc/facetFilters=%257B%257D/pageNumber=1/itemsPerPage=25)
+  - [Poverty_Action_Lab: Apply filters to see what data is available](https://www.povertyactionlab.org/evaluations)
+  - [Financial Industry Regulatory Authority (FINRA)](https://aws.amazon.com/solutions/case-studies/finra/)
+  - [McDonald's](https://corporate.mcdonalds.com/corpmcd/our-company/where-we-operate.html)
+  - [Netfliz](https://aws.amazon.com/solutions/case-studies/netflix/)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
