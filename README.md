@@ -482,8 +482,39 @@
           - [Overview of Support Vector Machines](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Overview_of_Support_Vector_Machines.docx)
             - [SVM in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-5-2-svm/Notebook/svm_loan_approver.ipynb)
       
+- ## Module 18: Unsupervised Learning (K-Means Algorithm, Centroids for Elbow Curve, PCA, skikit-learn, Plotly, hvPlot)
+  - [Crptocurrencies](https://github.com/stephenanayashilliard/Cryptocurrencies)
+  - ### Unsupervised Learning
+    - [Unsupervised Learning](
+    - [Install sckikit-learn, Plotly, hvPlot](
+    - #### Steps for Preparing Data
+      - ##### Data Selection
+        Data selection entails making good choices about which data will be used. Consider what data is available, what data is missing, and what data can be removed. For example, say we have a dataset on city weather that consists of temperature, population, latitude and longitude, date, snowfall, and income. After looking through the columns, we can readily see that population and income data don't affect weather. We might also notice some rows are missing temperature data. In the data selection process, we would remove the population and income columns as well as any rows that don't record temperatures.
+      - ##### Data Processing
+        Data processing involves organizing the data by formatting, cleaning, and sampling it. In our dataset on city weather, if the date column has two different formats—mm-dd-yyyy (e.g., 01-23-1980) and month-data-year (e.g., jan-23-1980)—we would convert all dates to the same format.
+      - ##### Data Transformation
+        Data transformation entails transforming our data into a simpler format for storage and future use, such as a CSV, spreadsheet, or database file. Once our weather data is cleaned and processed, we would export the final version of the data as a CSV file for future analysis.
+      - [Panda DataFrame Refresher](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Drop%20fields%2C%20reorder%20columns%20Dataframe.ipynb)
+    - #### Types of Unsupervised Learning
+      - ##### Transformations
+        We use transformations when we need to take raw data and make it easier to understand. Transformations also can help prepare data so that it can be used for other machine learning algorithms. Transformations can reduce the dimensional representation, which simply means we'll be decreasing the number of features used for the model or analysis. After doing so, the data can either be processed for use in other algorithms or narrowed down so it can be viewed in 2D.
+      - ##### Clustering Algorithms
+      We use clustering algorithms to group similar objects into clusters. For example, if a cable service wants to group those with similar viewing habits, we would use a clustering algorithm.
+        - [Clustering_Data](
+        - [K-means_Algorithm](
+          - [Initialize the K Starting Centroids and hvPlot in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Initialize%20the%20K%20Starting%20Centroids%20in%20Practice.ipynb)
+            - [hvPlot Documention](https://hvplot.holoviz.org/)
+          - [Trail and Error of Finding Centroids In Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Trail%20and%20Error%20of%20Finding%20Centroids%20In%20Practice.ipynb)
+          - ###### Elbow Curve
+            - [Elbow Curve](
+              - [Kmeans and Elbow Curve Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Kmeans%20and%20Elbow%20curve%20practice.ipynb)
+              - [Using Elbow Curve in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Using%20Elbow%20Curve%20in%20Practice.ipynb)
+          
+        
+    
 
-- ## Module 18
+
+  
 
 - ## Module 19
 
@@ -577,6 +608,7 @@
   - [USDA Open Data Catalog](https://www.usgs.gov/products/data-and-tools/real-time-data)
   - [USGS data-and-tools, real-time-data](https://www.usgs.gov/products/data-and-tools/real-time-data)
   - [Census](https://data.census.gov/cedsci/)
+  - [iris dataset from the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
