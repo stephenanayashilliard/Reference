@@ -22,6 +22,7 @@
     - [Python Documentation on the Python Requests Libary](https://requests.kennethreitz.org/en/master/)
     - [Python Package Index](https://pypi.org/)
     - [Python Article on Magic Methods](https://www.geeksforgeeks.org/dunder-magic-methods-python/)
+    - [rPython Article on How to use generators and yield in Python](https://realpython.com/introduction-to-python-generators/#understanding-the-python-yield-statement)
    - ### Coding:
       - [Data types (creating lists, type(), len(), append(), remove(), pop(), tuples)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/lists_len_append_remove_pop_tuples.ipynb)
       - [Dictionaries](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Dictionaries.ipynb)
@@ -291,6 +292,7 @@
 
 - ## Module 14
 
+
 - ## Module 15: Statistcs and R (Python, RScripts, RStudio, tidyverse, ggplot2)
   - [MechaCar_Statistical_Analysis](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis)
   - ### R
@@ -347,13 +349,13 @@
         - When dealing with relatively smaller sample sizes, our data distributions are often asymmetrical. Compared to the normal distribution, where each tail of the distribution (on either side of the mean μ) mirrors one another, the asymmetrical distribution has one distribution tail that is longer than the other. This asymmetrical distribution is commonly referred to as a skewed distribution and there are two types—left skew and right skew.
         - [Skew](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Skew.docx)
      - Hypothesis Testing 
-      - [Practice_Hypothesis_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Practice_Hypothesis_Testing.docx)
+        - [Practice_Hypothesis_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Practice_Hypothesis_Testing.docx)
         - [Significance Level p-value chart](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Significance_Level_p-value_chart.docx)
-      - [Assess_Error_in_Hypothesis_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Assess_Error_in_Hypothesis_Testing.docx)
-      - [Sample_Versus_Population_Dataset](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Sample_Versus_Population_Dataset.docx)
-        - [One-Sample_t-Test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/One-Sample_t-Test.docx)
-        - [Two-Sample_t-test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Two-Sample_t-test.docx)
-        - [ANOVA_Test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/ANOVA_Test.docx)
+        - [Assess_Error_in_Hypothesis_Testing](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Assess_Error_in_Hypothesis_Testing.docx)
+        - [Sample_Versus_Population_Dataset](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Sample_Versus_Population_Dataset.docx)
+          - [One-Sample_t-Test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/One-Sample_t-Test.docx)
+          - [Two-Sample_t-test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Two-Sample_t-test.docx)
+          - [ANOVA_Test](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/ANOVA_Test.docx)
       - Correlation Analysis
         - [Correlation_Analyis](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Correlation_Analyis.docx)
         - Linear Regression
@@ -370,23 +372,71 @@
    - ### Coding
     - [MechCare_Statistical_Analysis](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis/blob/main/MechCarChallenge.R)
     
-- ## Module 16: Big Data, Hadoop, MapReduce, PySpark, Natural Language Processing (NLP), Amazon Web Services (AWS)
+
+- ## Module 16: Big Data (Python, pgAdmin, Hadoop, MapReduce, PySpark, Natural Language Processing (NLP), Amazon Web Services (AWS))
   - [Amazon_Vine_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
   - ### Big Data
-    - [What_Is_Big_Data](
+    - [What_Is_Big_Data](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/What_Is_Big_Data.docx)
   - ###  Apache Hadoop
     Apache Hadoop (Hadoop) is one of the most popular open source frameworks, with numerous technologies for big data. Google developed Hadoop to process large amounts of data by splitting data across a distributed file system.
     - #### Hadoop Distributed File System (HDFS)
       a file system used to store data across server clusters (groups of computers). It is scalable (which means it handles influxes of data), fault-tolerant (handles hardware failure), and distributed (spread across multiple servers connected by a common core).
+      - [Hadoop_Official_Website](https://hadoop.apache.org/)
+      - #### Apache Spark (Spark)
+        - [Key_Features_of_Spark]()
+        - [Spark_Architecture](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Spark_Architecture.docx)
+        - [Spark_Parallelism](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Spark_Parallelism.docx)
+        - [Spark_API](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Spark_API.docx)
+          - ### Pyspark
+          - [PySpark_in_google_Colab_Notebooks: Set Up](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/PySpark_in_Google_Colab_Notebooks.docx)
+            - [Google Colaboratory (Colab)](https://colab.research.google.com/notebooks/welcome.ipynb)
+            - [Spark_Dataframes_and_Datasets](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Spark_Dataframes_and_Datasets.docx)
+              - [Google_Colab_Example_Working_with_Dataframes](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Google_Colab_Example.ipynb)
+            - [Spark_Functions](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Spark_Functions.docx)
+              - [Working_with_Spark_Functions](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Working%20with%20Spark%20Functions.ipynb)
+            - [AWS Simple Storage Service: PySpark and S3 Stored Data](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/AWS_Simple_Storage_Service.docx)
+            - [PySpark_ETL](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/PySpark_ETL.docx)
+              - [Connecting Postgres to Spark](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Connecting%20Postgres%20to%20Spark.ipynb)
     - #### Map Reduce
     Programming model and processing technique for big data. MapReduce enables processing the large amount of data spread across the cluster in the HDFS by performing the same task for each file system.
+      - [MapReduce Process](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/MapReduce_Process.docx)
+      - [mrjob Library](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/mrjob_Library.docx)
+        - [realpython.com How to use generators and yield in Python](https://realpython.com/introduction-to-python-generators/#understanding-the-python-yield-statement)
     - #### YARN (Yet Another Resource Negotiator)
     Manages and allocates resources across the clusters and assigns tasks.
-    
-    -
-  - ### Coding
-    - [Amazon_Reviews_ETL](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Amazon_Reviews_ETL.ipynb)
-    - [Vine_review_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
+    - #### Natural Language Process (NLP)
+      - [Natural Language Processing](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Natural_Language_Processing.docx)
+      - [NLP_Core_Concepts: Tokenization, Normalization, Part-of-Speech Tagging, Natural Language Generation, Bag-of-Words, N-gram, Text Similarity](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/NLP_Core_Concepts.docx)
+        - [Using the Natural Language Tookkits](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Using_the_Natural_Language_Toolkit.ipynb)
+      - [NLP_Analysis, Named Entity Recognition, ](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/NLP_Analysis.docx)
+      - [NLP_Pipeline](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/NLP_Pipeline.docx)
+        - [Tokenization](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Tokenization.ipynb)
+        - [Stop Words](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Stop%20Words.ipynb)
+        - [Term Frequency-Inverse Document Frequency Weight](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Term%20Frequency-Inverse%20Document%20Frequency%20Weight.ipynb)
+          - [Collision(Computer Science)](https://en.wikipedia.org/wiki/Collision_(computer_science))
+        - [Pipeline Setup to Run the Model](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Pipeline%20Setup%20to%20Run%20the%20Model.ipynb)
+          - [Naive Bayes Classifiers](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
+          - [Naive Bayes Wikipedia Page](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+   - ### Amazon Web Services
+    - [Evaluate_Amazon_Web_Services](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Evaluate_Amazon_Web_Services.docx)
+    - [Test_with_Create_Read_Update_and_Delete](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Test_with_Create_Read_Update_and_Delete.docx)
+       This section is all done in pgAdmin
+    - [Database_Versus_Data_Storage](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Database_Versus_Data_Storage.docx)
+      - [AWS Simple Storage Service: PySpark and S3 Stored Data](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/AWS_Simple_Storage_Service.docx)
+      - [Shut_down_your_instance_and_check_AWS_Billing](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Shut_down_your_instance_and_check_AWS_Billing.docx)
+        - [AWS article on handling Free Tier](https://aws.amazon.com/premiumsupport/knowledge-center/stop-future-free-tier-charges/)
+    - [AWS Training and Certification](https://aws.amazon.com/training/)    
+    - ### Coding
+      - [Google_Colab_Example_Working_with_Dataframes](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Google_Colab_Example.ipynb)
+      - [Working_with_Spark_Functions](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Working%20with%20Spark%20Functions.ipynb)
+      - [Using the Natural Language Tookkits](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Using_the_Natural_Language_Toolkit.ipynb)
+      - [Tokenization](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Tokenization.ipynb)
+      - [Stop Words](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Stop%20Words.ipynb)
+      - [Term Frequency-Inverse Document Frequency Weight](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Term%20Frequency-Inverse%20Document%20Frequency%20Weight.ipynb)
+      - [Pipeline Setup to Run the Model](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Pipeline%20Setup%20to%20Run%20the%20Model.ipynb)
+      - [Connecting Postgres to Spark](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/Connecting%20Postgres%20to%20Spark.ipynb)
+      - [Amazon_Reviews_ETL](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Amazon_Reviews_ETL.ipynb)
+      - [Vine_review_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
 
 
 
@@ -439,6 +489,7 @@
   - [Python Explosion blamed on Pandas](https://www.theregister.com/2017/09/14/python_explosion_blamed_on_pandas/)
   - [Python Jobs](https://pythonjobs.github.io/)
   - [TIOBE Index: Measure of Coding Language Popularity](https://www.tiobe.com/tiobe-index/)
+  - [AWS Training and Certification](https://aws.amazon.com/training/)
   - Portfolio Websites
     - [Create a Portfolio Instructions](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Create_a_portfolio_instructions.docx)
     - Portfolio Templates
@@ -480,6 +531,13 @@
   - [Financial Industry Regulatory Authority (FINRA)](https://aws.amazon.com/solutions/case-studies/finra/)
   - [McDonald's](https://corporate.mcdonalds.com/corpmcd/our-company/where-we-operate.html)
   - [Netfliz](https://aws.amazon.com/solutions/case-studies/netflix/)
+  - [Amazon Review Datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+  - [Arcgis.com Easy to configure cloe platform for data](https://hub.arcgis.com/search?collection=Dataset)
+  - [Data.gov](https://www.data.gov/)
+  - [coronavirus.gov](https://www.coronavirus.gov/)
+  - [USDA Open Data Catalog](https://www.usgs.gov/products/data-and-tools/real-time-data)
+  - [USGS data-and-tools, real-time-data](https://www.usgs.gov/products/data-and-tools/real-time-data)
+  - [Census](https://data.census.gov/cedsci/)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
