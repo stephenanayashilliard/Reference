@@ -456,8 +456,8 @@
           - #### Bootstrap Aggregation
             - [Bootstrap_Aggregation](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Bootstrap_Aggregation.docx)
           - #### Boosting
-            -[Boosting](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Boosting.docx)
-              -[Boosting in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-9-3-gradient_boosted_tree/Notebook/gradient_boosted_tree.ipynb)
+            - [Boosting](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Boosting.docx)
+              - [Boosting in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-9-3-gradient_boosted_tree/Notebook/gradient_boosted_tree.ipynb)
           - #### Oversampling
             - [OverSampling](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Oversampling.docx)
               - [Oversampling in practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-10-1-oversampling/oversampling.ipynb)
@@ -465,8 +465,8 @@
             - [Undersampling](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Undersampling.docx)
               -[Undersampling in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-10-2-undersampling/Notebook/undersampling.ipynb)
           - #### Combination Sampling With SMOTEENN
-            -[Combination Sampling with SMOTEEN](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Combination_Sampling_With_SMOTEEN.docx)
-              -[Combination Sampling in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/17-10-3-combination_sampling/Notebook/combination_sampling.ipynb)
+            - [Combination Sampling with SMOTEEN](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Combination_Sampling_With_SMOTEEN.docx)
+              - [Combination Sampling in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/17-10-3-combination_sampling/Notebook/combination_sampling.ipynb)
     - [Imbalanced-Learn Documentation](https://imbalanced-learn.org/stable/)
     - [Overview_of_Machine_Learning](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
       - [Supervised_Learning_Regression_and_Classification](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Supervised_Learning_Regression_and_Classification.docx)
