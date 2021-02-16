@@ -438,11 +438,50 @@
       - [Amazon_Reviews_ETL](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Amazon_Reviews_ETL.ipynb)
       - [Vine_review_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
 
-
-
-
-
-- ## Module 17
+- ## Module 17: Machine Learning (Python, sklearn,Machine Learning Algorithms, Logistic Regression, Decision Tree, Random Forest, Ensemble and Resampling Techniques)
+  - [Credit_Risk_Analysis](https://github.com/stephenanayashilliard/Credit_Risk_Analyis)
+  - ### Machine Learning
+    - [Create_a_Machine_Learning_Environment](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Create_a_Machine_Learning_Environment.docx)
+    - [Assess Accuracy_Precision_and_Sensitivity](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Assess%20Accuracy_Precision_and_Sensitivity.docx)
+      - [Confusion_Matrix in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-4-2-precision__recall_f1/Notebook/diabetes.ipynb#Predicting-Diabetes)
+    - [Dealing with Categorcial Data in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-6-1-label_encode/Notebook/categorical-data.ipynb)
+    - [Scaling and Normalizing Data in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-6-4-scale/Notebook/categorical-data.ipynb)
+    - ### Decision Trees
+      - [Overview of Decision Trees](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Overview_of_Decision_Trees.docx)
+        - [Decision Trees in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-7-2-decision_tree/Notebook/decision-trees.ipynb)
+          - [Sklearn Documentaion: metrics, precision, recall, fscore support](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_fscore_support.html)
+    - [Overview_of_Ensemble_Learning](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Overview_of_Ensemble_Learning.docx)
+      - #### Random Forest
+        - [Random Forest in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-7-2-decision_tree/Notebook/Random%20Forest%20Model.ipynb)
+          - #### Bootstrap Aggregation
+            - [Bootstrap_Aggregation](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Bootstrap_Aggregation.docx)
+          - #### Boosting
+            -[Boosting](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Boosting.docx)
+              -[Boosting in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-9-3-gradient_boosted_tree/Notebook/gradient_boosted_tree.ipynb)
+          - #### Oversampling
+            - [OverSampling](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Oversampling.docx)
+              - [Oversampling in practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-10-1-oversampling/oversampling.ipynb)
+          - #### Undersampling
+            - [Undersampling](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Undersampling.docx)
+              -[Undersampling in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-10-2-undersampling/Notebook/undersampling.ipynb)
+          - #### Combination Sampling With SMOTEENN
+            -[Combination Sampling with SMOTEEN](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Combination_Sampling_With_SMOTEEN.docx)
+              -[Combination Sampling in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/17-10-3-combination_sampling/Notebook/combination_sampling.ipynb)
+    - [Imbalanced-Learn Documentation](https://imbalanced-learn.org/stable/)
+    - [Overview_of_Machine_Learning](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+      - [Supervised_Learning_Regression_and_Classification](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Supervised_Learning_Regression_and_Classification.docx)
+        - #### Linear Regression
+          - [Linear_Regression_Example](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-2-3-2-linear_regression_salary/Notebook/linear_regression.ipynb)
+        - #### Logistic Regression
+          - [How_Logistic_Regression_Works: The Logit function](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/How_Logistic_Regression_Works.docx)
+              - [Introduction to Logarithms](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:logs/x2ec2f6f830c9fb89:log-intro/v/logarithms)
+            - [Logistic Regression Demo with examples of stratification](http://localhost:8889/tree/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-3-1-logistic_regression_demo)
+              - [sklearn Documentation: train_test_split() Function](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+            - [Logistic Regression Model with real Data](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-3-2-logistic_regression_dm/Notebook/diabetes.ipynb)
+        - #### Support Vector Machines
+          - [Overview of Support Vector Machines](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Overview_of_Support_Vector_Machines.docx)
+            - [SVM in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-5-2-svm/Notebook/svm_loan_approver.ipynb)
+      
 
 - ## Module 18
 
