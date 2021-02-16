@@ -463,7 +463,7 @@
               - [Oversampling in practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-10-1-oversampling/oversampling.ipynb)
           - #### Undersampling
             - [Undersampling](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Undersampling.docx)
-              -[Undersampling in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-10-2-undersampling/Notebook/undersampling.ipynb)
+              - [Undersampling in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-10-2-undersampling/Notebook/undersampling.ipynb)
           - #### Combination Sampling With SMOTEENN
             - [Combination Sampling with SMOTEEN](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Combination_Sampling_With_SMOTEEN.docx)
               - [Combination Sampling in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/17-10-3-combination_sampling/Notebook/combination_sampling.ipynb)
