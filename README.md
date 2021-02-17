@@ -655,15 +655,25 @@
   - [Improve Your Analytics Projects w/ These Data Distributions Visualizations](https://towardsdatascience.com/improve-your-analytics-projects-w-these-data-distributions-visualizations-7ba3821f2092)
 
 - ## Employment Services
-  - [Project Open Data](https://github.com/project-open-data/)
-  - [Sherlock Project](https://github.com/sherlock-project/sherlock)
-  - [salaryexpert.com](https://www.salaryexpert.com/)
-  - [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019)
-  - [Python Explosion blamed on Pandas](https://www.theregister.com/2017/09/14/python_explosion_blamed_on_pandas/)
-  - [Python Jobs](https://pythonjobs.github.io/)
-  - [TIOBE Index: Measure of Coding Language Popularity](https://www.tiobe.com/tiobe-index/)
-  - [AWS Training and Certification](https://aws.amazon.com/training/)
-  - Portfolio Websites
+  - ### Job Sites
+    - [Python Jobs](https://pythonjobs.github.io/) 
+    - [Indeed](https://www.indeed.com/)
+    - [Glassdoor](https://www.glassdoor.com/index.htm)
+  - ### Other Helpful Employment Sites
+    - [Project Open Data](https://github.com/project-open-data/)
+    - [Sherlock Project](https://github.com/sherlock-project/sherlock)
+    - [salaryexpert.com](https://www.salaryexpert.com/)
+    - [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2019)
+    - [Python Explosion blamed on Pandas](https://www.theregister.com/2017/09/14/python_explosion_blamed_on_pandas/)
+    - [TIOBE Index: Measure of Coding Language Popularity](https://www.tiobe.com/tiobe-index/)
+    - [AWS Training and Certification](https://aws.amazon.com/training/)
+    - #### Machine Learning Interview Question Sites
+      - [Machine Learning Interview Questions on Glassdoor.com](https://www.glassdoor.com/Interview/machine-learning-interview-questions-SRCH_KO0,16.htm)
+      - [Cracking the Machine Learning Interview](https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8)
+      - [10 Essential Machine Learning Interview Questions](https://www.toptal.com/machine-learning/interview-questions)
+      - [Top 34 Machine Learning Interview Questions & Answers for 2020](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions)
+      - [41 Essential Machine Learning Interview Questions](https://www.springboard.com/blog/machine-learning-interview-questions/)
+  - ### Portfolio Websites
     - [Create a Portfolio Instructions](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Create_a_portfolio_instructions.docx)
     - Portfolio Templates
       - [template 1](https://github.com/stephenanayashilliard/Reference/tree/main/Ten_Web_Scraping/portfolio-template-01)
@@ -672,7 +682,7 @@
       - [Google Fonts](https://developers.google.com/fonts/docs/getting_started)
     - [10 Fantastic Portfolio Websites](https://bestfolios.medium.com/10-fantastic-portfolio-websites-from-silicon-valley-design-leads-2d84b384dba6)
     - [One Page Portfolio Websites](https://bestfolios.medium.com/10-fantastic-portfolio-websites-from-silicon-valley-design-leads-2d84b384dba6)
-  - Testing your skills
+  - ### Testing your skills
     - Python
       - [HackerRank](https://www.hackerrank.com/)
       - [CodeSignal](https://codesignal.com/)
