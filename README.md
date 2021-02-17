@@ -438,6 +438,7 @@
       - [Amazon_Reviews_ETL](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Amazon_Reviews_ETL.ipynb)
       - [Vine_review_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
 
+
 - ## Module 17: Machine Learning (Python, sklearn,Machine Learning Algorithms, Logistic Regression, Decision Tree, Random Forest, Ensemble and Resampling Techniques)
   - [Credit_Risk_Analysis](https://github.com/stephenanayashilliard/Credit_Risk_Analyis)
   - ### Machine Learning
@@ -482,6 +483,7 @@
           - [Overview of Support Vector Machines](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Overview_of_Support_Vector_Machines.docx)
             - [SVM in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-5-2-svm/Notebook/svm_loan_approver.ipynb)
       
+
 - ## Module 18: Unsupervised Learning (K-Means Algorithm, Centroids for Elbow Curve, PCA, skikit-learn, Plotly, hvPlot)
   - [Crptocurrencies](https://github.com/stephenanayashilliard/Cryptocurrencies)
   - ### Unsupervised Learning
@@ -534,14 +536,90 @@
                   - [Kmeans and Elbow Curve Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Kmeans%20and%20Elbow%20curve%20practice.ipynb)
                   - [Using Elbow Curve in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Using%20Elbow%20Curve%20in%20Practice.ipynb)
          
-          
-        
-    
+ - ## Module 19: Rise of Machine Learning (Neural Networks, Deep Learning Models, TensorFlow)
+  - ### Neural Network
+    - [What is a Neural Network](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/What_is_a_Neural_Network.docx)
+      - #### Perceptron
+        - [Perceptron, the Computational Neuron](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/Perceptron_the_Computational_Neuron.docx)
+          - Input Values: typically labelled as x or 𝝌 (chi, pronounced kaai, as in eye)
+          - Weight Coefficient: each input value, typically labelled as w or ⍵ (omega)
+          - Bias: is a constant value added to the input to influence the final decision, typically labelled as w0. In other words, no matter how many inputs we have, there will always be an additional value to "stir the pot."
+          - Net Summary Function: aggregates all weighted inputs, in this case a weighted summation
+    - [Make_the_Connections_and_Explore_TensorFlow_Playground](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/Make_the_Connections_and_Explore_TensorFlow_Playground.docx)
+      - #### Basic Neural Network Layers
+        - An input layer of input values transformed by weight coefficients
+        - A single "hidden" layer of neurons (single neuron or multiple neurons)
+        - An output layer that reports the classification or regression model value
+      - #### Activation function: mathematical function applied to the end of each "neuron" (or each individual perceptron model) that transforms the output to a quantitative value. This quantitative output is used as an input value for other layers in the neural network model. There are a wide variety of activation functions that can be used for many specific purposes; however, most neural networks will use one of the following activation functions:
+        - linear function returns the sum of our weighted inputs without transformation.
+        - sigmoid function is identified by a characteristic S curve. It transforms the output to a range between 0 and 1.
+        - tanh function is also identified by a characteristic S curve; however, it transforms the output to a range between -1 and 1.
+        - Rectified Linear Unit (ReLU) function returns a value from 0 to infinity, so any negative input through the activation function is 0. It is the most used activation function in neural networks due to its simplifying output, but it might not be appropriate for simpler models.
+        - The Leaky ReLU function is a "leaky" alternative to the ReLU function, whereby negative input values will return very small negative values.
+      - #### TensorFlow
+        TensorFlow is a neural network and machine learning library for Python that has become an industry standard for developing robust neural network models
+        - [Set_Up_the_TensorFlow_Pipeline](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/Set_Up_the_TensorFlow_Pipeline.docx)
+          - Tensorflow Libraries
+            - Keras: contains multiple classes and objects that can be combined to design a variety of neural network types. These classes and objects are order-dependant, which means that depending on what Keras objects are used (and in what order), the behavior of the neural network model will change accordingly. 
+              - [Keras Documentation](https://www.tensorflow.org/guide/keras/sequential_model)
+              - Sequential: The Sequential class is a linear stack of neural network layers, where data flows from one layer to the next.
+              - Dense: class allows us to add layers within the neural network.
+        - [TensorFlow Playground](https://playground.tensorflow.org/#activation=sigmoid&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=1&seed=0.10587&showTestData=false&discretize=true&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&discretize_hide=true&regularization_hide=true&learningRate_hide=true&regularizationRate_hide=true&percTrainData_hide=true&showTestData_hide=true&noise_hide=true&batchSize_hide=true)
+        - [In Practice: Build a Basic Neural Network with TensorFlow](http://localhost:8891/notebooks/Desktop/Class%20Projects/Neural-Network/TensorFlow.ipynb)
+          - make_blobs function
+          - Keras Layers
+          - Compiling the Model 
+            - Optimization function: shapes and molds a neural network model while it is being trained to ensure that it performs to the best of its ability.
+              - [Optimization Functions Documenation]https://www.tensorflow.org/api_docs/python/tf/keras/optimizers)  
+            - Loss Metric: used by machine learning algorithms to score the performance of the model through each iteration and epoch by evaluating the inaccuracy of a single input.
+              - [Lose Metrics Documentation](https://www.tensorflow.org/api_docs/python/tf/keras/losses)
+            - Evaluation Metric: which measures the quality of the machine learning model. The two types are:
+              - Model Predictive Accuracy
+              - Model Mean Squared Error or MSE
+           - make_moons Function : Generates nonlinear moon shaped Data.
+        - [Give Your Model a Synaptic Boost](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/Give_Your_Model_a_Synaptic_Boost.docx)
+          - Means of Optimizing a Neural Network
+            - Check out your input dataset
+            - Add more neurons to a hidden layer
+            - Add additional hidden layers.
+            - Use a different activation function for the hidden layers.
+            - Add additional epochs to the training regimen.
+         - [The Headache of Categorical Variables](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/The_Headache_of_Categorical_Variables.docx)
+          - one-hot encoding: identifies all unique column values and splits the single categorical column into a series of columns, each containing information about a single unique categorical value. 
+          - bucketing or binning: The process of reducing the number of unique categorical values in a dataset.
+            -  Collapse all of the infrequent and rare categorical values into a single "other" category
+            -  Create generalized categorical values and reassign all data points to the new corresponding values. 
+          - [Practice Encoding Categorical Variables](http://localhost:8891/notebooks/Desktop/Class%20Projects/Neural-Network/Practice_Encoding_Categorical_Variables.ipynb)
+            - one-hot encoder  
+         - [Standardization](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/Standardization.docx)
+          - [Practice Encoding Standardization](http://localhost:8891/notebooks/Desktop/Class%20Projects/Neural-Network/Standardization.ipynb)
+         - [Unleash the Hidden Potential of Neural Networks](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/Unleash_the_Hidden_Potential_of_Neural_Networks.docx)
+          - Deep Neural Network or Deep Learning Model
+          - [Practice Encoding a Deep Neural Network](http://localhost:8891/notebooks/Desktop/Class%20Projects/Neural-Network/DeepLearning_Tabular.ipynb)
+            - OneHotEncoder
+            - scikit-learn StandardScaler
+            - Checkpoint Dependencies and Training your model
+          - [Whose_Model_Is_It_Anyway?](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/Whose_Model_Is_It_Anyway.docx)
+          - [Logistic_Regression_Vs_a_ Basic_ Neural_ Network](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/Logistic_Regression_Vs_a_%20Basic_%20Neural_%20Network.docx)
+            - Sigmoid Curve
+            - [Practice Encoding a Logistical Regression Model and a Basic Neural Network](http://localhost:8891/notebooks/Desktop/Class%20Projects/Neural-Network/Logisticregression_NeuralNet.ipynb)
+            - [Practice Encoding SVM vs Deep Learning](http://localhost:8891/notebooks/Desktop/Class%20Projects/Neural-Network/SVM_DeepLearning.ipynb)
+                - SVMs: type of binary classifier that use geometric boundaries to distinguish data points from two separate groups. More specifically, SVMs try to calculate a geometric hyperplane that maximizes the distance between the closest data point of both groups.
+                - SVMs Advantages:
+                  -  Neural networks and deep learning models will often converge on a local minima. In other words, these models will often focus on a specific trend in the data and could miss the "bigger picture."
+                  -  SVMs are less prone to overfitting because they are trying to maximize the distance, rather than encompass all data within a boundary.
+             - [Practice Encoding: Random Forest Vs. Deep Learning Model](http://localhost:8891/notebooks/Desktop/Class%20Projects/Neural-Network/RandomForest_DeepLearning.ipynb)
+              - Random Forest Classifers: Random forest classifiers are a type of ensemble learning model that combines multiple smaller models into a more robust and accurate model. Random forest models use a number of weak learner algorithms (decision trees) and combine their output to make a final classification (or regression) decision. Structurally speaking, random forest models are very similar to their neural network counterparts. Random forest models have been a staple in machine learning algorithms for many years due to their robustness and scalability. Both output and feature selection of random forest models are easy to interpret, and they can easily handle outliers and nonlinear data.
+             - [Checkpoints Are Not Just for Video Games](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/Checkpoints_Are_Not_Just_for_Video%20_Games.docx)
+              - Keras ModelCheckpoint Method
+                - [Practice Encoding: Checkpoints](http://localhost:8891/notebooks/Desktop/Class%20Projects/Neural-Network/DeepLearning_Tabular.ipynb#Compile-the-Model)
+             - [For Best Results, Please Save After Training](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/For_Best_Results_Please_Save_After_Training.docx)
+              - HDF5 File or Hierarchical Data Format
+                - [HDF5 Documentation](https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
+                - [Practice Encoding:  Save your Training](http://localhost:8891/notebooks/Desktop/Class%20Projects/Neural-Network/DeepLearning_Tabular.ipynb#Compile-the-Model)
 
 
-  
-
-- ## Module 19
+           
 
 - ## Module 20
   - [Final Project]
@@ -634,6 +712,7 @@
   - [USGS data-and-tools, real-time-data](https://www.usgs.gov/products/data-and-tools/real-time-data)
   - [Census](https://data.census.gov/cedsci/)
   - [iris dataset from the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
+  - [The Ramen Rater](https://www.theramenrater.com/)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
