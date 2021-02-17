@@ -438,13 +438,83 @@
       - [Amazon_Reviews_ETL](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis/blob/main/Amazon_Reviews_ETL.ipynb)
       - [Vine_review_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
 
+- ## Module 17: Machine Learning (Python, sklearn,Machine Learning Algorithms, Logistic Regression, Decision Tree, Random Forest, Ensemble and Resampling Techniques)
+  - [Credit_Risk_Analysis](https://github.com/stephenanayashilliard/Credit_Risk_Analyis)
+  - ### Machine Learning
+    - [Create_a_Machine_Learning_Environment](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Create_a_Machine_Learning_Environment.docx)
+    - [Assess Accuracy_Precision_and_Sensitivity](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Assess%20Accuracy_Precision_and_Sensitivity.docx)
+      - [Confusion_Matrix in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-4-2-precision__recall_f1/Notebook/diabetes.ipynb#Predicting-Diabetes)
+    - [Dealing with Categorcial Data in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-6-1-label_encode/Notebook/categorical-data.ipynb)
+    - [Scaling and Normalizing Data in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-6-4-scale/Notebook/categorical-data.ipynb)
+    - ### Decision Trees
+      - [Overview of Decision Trees](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Overview_of_Decision_Trees.docx)
+        - [Decision Trees in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-7-2-decision_tree/Notebook/decision-trees.ipynb)
+          - [Sklearn Documentaion: metrics, precision, recall, fscore support](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_fscore_support.html)
+    - [Overview_of_Ensemble_Learning](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Overview_of_Ensemble_Learning.docx)
+      - #### Random Forest
+        - [Random Forest in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-7-2-decision_tree/Notebook/Random%20Forest%20Model.ipynb)
+          - #### Bootstrap Aggregation
+            - [Bootstrap_Aggregation](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Bootstrap_Aggregation.docx)
+          - #### Boosting
+            - [Boosting](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Boosting.docx)
+              - [Boosting in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-9-3-gradient_boosted_tree/Notebook/gradient_boosted_tree.ipynb)
+          - #### Oversampling
+            - [OverSampling](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Oversampling.docx)
+              - [Oversampling in practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-10-1-oversampling/oversampling.ipynb)
+          - #### Undersampling
+            - [Undersampling](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Undersampling.docx)
+              - [Undersampling in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-10-2-undersampling/Notebook/undersampling.ipynb)
+          - #### Combination Sampling With SMOTEENN
+            - [Combination Sampling with SMOTEEN](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Combination_Sampling_With_SMOTEEN.docx)
+              - [Combination Sampling in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/17-10-3-combination_sampling/Notebook/combination_sampling.ipynb)
+    - [Imbalanced-Learn Documentation](https://imbalanced-learn.org/stable/)
+    - [Overview_of_Machine_Learning](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+      - [Supervised_Learning_Regression_and_Classification](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Supervised_Learning_Regression_and_Classification.docx)
+        - #### Linear Regression
+          - [Linear_Regression_Example](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-2-3-2-linear_regression_salary/Notebook/linear_regression.ipynb)
+        - #### Logistic Regression
+          - [How_Logistic_Regression_Works: The Logit function](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/How_Logistic_Regression_Works.docx)
+              - [Introduction to Logarithms](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:logs/x2ec2f6f830c9fb89:log-intro/v/logarithms)
+            - [Logistic Regression Demo with examples of stratification](http://localhost:8889/tree/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-3-1-logistic_regression_demo)
+              - [sklearn Documentation: train_test_split() Function](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+            - [Logistic Regression Model with real Data](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-3-2-logistic_regression_dm/Notebook/diabetes.ipynb)
+        - #### Support Vector Machines
+          - [Overview of Support Vector Machines](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Overview_of_Support_Vector_Machines.docx)
+            - [SVM in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-5-2-svm/Notebook/svm_loan_approver.ipynb)
+      
+- ## Module 18: Unsupervised Learning (K-Means Algorithm, Centroids for Elbow Curve, PCA, skikit-learn, Plotly, hvPlot)
+  - [Crptocurrencies](https://github.com/stephenanayashilliard/Cryptocurrencies)
+  - ### Unsupervised Learning
+    - [Unsupervised Learning](
+    - [Install sckikit-learn, Plotly, hvPlot](
+    - #### Steps for Preparing Data
+      - ##### Data Selection
+        Data selection entails making good choices about which data will be used. Consider what data is available, what data is missing, and what data can be removed. For example, say we have a dataset on city weather that consists of temperature, population, latitude and longitude, date, snowfall, and income. After looking through the columns, we can readily see that population and income data don't affect weather. We might also notice some rows are missing temperature data. In the data selection process, we would remove the population and income columns as well as any rows that don't record temperatures.
+      - ##### Data Processing
+        Data processing involves organizing the data by formatting, cleaning, and sampling it. In our dataset on city weather, if the date column has two different formats—mm-dd-yyyy (e.g., 01-23-1980) and month-data-year (e.g., jan-23-1980)—we would convert all dates to the same format.
+      - ##### Data Transformation
+        Data transformation entails transforming our data into a simpler format for storage and future use, such as a CSV, spreadsheet, or database file. Once our weather data is cleaned and processed, we would export the final version of the data as a CSV file for future analysis.
+      - [Panda DataFrame Refresher](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Drop%20fields%2C%20reorder%20columns%20Dataframe.ipynb)
+    - #### Types of Unsupervised Learning
+      - ##### Transformations
+        We use transformations when we need to take raw data and make it easier to understand. Transformations also can help prepare data so that it can be used for other machine learning algorithms. Transformations can reduce the dimensional representation, which simply means we'll be decreasing the number of features used for the model or analysis. After doing so, the data can either be processed for use in other algorithms or narrowed down so it can be viewed in 2D.
+      - ##### Clustering Algorithms
+      We use clustering algorithms to group similar objects into clusters. For example, if a cable service wants to group those with similar viewing habits, we would use a clustering algorithm.
+        - [Clustering_Data](
+        - [K-means_Algorithm](
+          - [Initialize the K Starting Centroids and hvPlot in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Initialize%20the%20K%20Starting%20Centroids%20in%20Practice.ipynb)
+            - [hvPlot Documention](https://hvplot.holoviz.org/)
+          - [Trail and Error of Finding Centroids In Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Trail%20and%20Error%20of%20Finding%20Centroids%20In%20Practice.ipynb)
+          - ###### Elbow Curve
+            - [Elbow Curve](
+              - [Kmeans and Elbow Curve Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Kmeans%20and%20Elbow%20curve%20practice.ipynb)
+              - [Using Elbow Curve in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Using%20Elbow%20Curve%20in%20Practice.ipynb)
+          
+        
+    
 
 
-
-
-- ## Module 17
-
-- ## Module 18
+  
 
 - ## Module 19
 
@@ -538,6 +608,7 @@
   - [USDA Open Data Catalog](https://www.usgs.gov/products/data-and-tools/real-time-data)
   - [USGS data-and-tools, real-time-data](https://www.usgs.gov/products/data-and-tools/real-time-data)
   - [Census](https://data.census.gov/cedsci/)
+  - [iris dataset from the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
