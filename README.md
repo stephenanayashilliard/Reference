@@ -499,7 +499,7 @@
           - [Dimensionality Reduction](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Dimensionality_Reduction.docx)
             - Feature Elimination
             - Feature Extraction
-            - [Principal Component Analyis or PCA] (https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Principal_Component_Analysis.docx)
+            - [Principal Component Analyis or PCA](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Principal_Component_Analysis.docx)
               - Mean
               - Variance
               - Covariance  
@@ -529,7 +529,7 @@
                 - [Initialize the K Starting Centroids and hvPlot in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Initialize%20the%20K%20Starting%20Centroids%20in%20Practice.ipynb)
                 - [hvPlot Documention](https://hvplot.holoviz.org/)
                 - [Trail and Error of Finding Centroids In Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Trail%20and%20Error%20of%20Finding%20Centroids%20In%20Practice.ipynb)
-              - ####### Elbow Curve
+              - ###### Elbow Curve
                 - [Elbow Curve](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Elbow_Curve.docx)
                   - [Kmeans and Elbow Curve Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Kmeans%20and%20Elbow%20curve%20practice.ipynb)
                   - [Using Elbow Curve in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Using%20Elbow%20Curve%20in%20Practice.ipynb)
