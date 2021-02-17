@@ -485,30 +485,55 @@
 - ## Module 18: Unsupervised Learning (K-Means Algorithm, Centroids for Elbow Curve, PCA, skikit-learn, Plotly, hvPlot)
   - [Crptocurrencies](https://github.com/stephenanayashilliard/Cryptocurrencies)
   - ### Unsupervised Learning
-    - [Unsupervised Learning](
-    - [Install sckikit-learn, Plotly, hvPlot](
+    - [Unsupervised Learning](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Unsupervised_Learning.docx)
+    - [Install sckikit-learn, Plotly, hvPlot](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Install_Scikit-learn.docx)
     - #### Steps for Preparing Data
       - ##### Data Selection
         Data selection entails making good choices about which data will be used. Consider what data is available, what data is missing, and what data can be removed. For example, say we have a dataset on city weather that consists of temperature, population, latitude and longitude, date, snowfall, and income. After looking through the columns, we can readily see that population and income data don't affect weather. We might also notice some rows are missing temperature data. In the data selection process, we would remove the population and income columns as well as any rows that don't record temperatures.
       - ##### Data Processing
         Data processing involves organizing the data by formatting, cleaning, and sampling it. In our dataset on city weather, if the date column has two different formats—mm-dd-yyyy (e.g., 01-23-1980) and month-data-year (e.g., jan-23-1980)—we would convert all dates to the same format.
+        - [Panda DataFrame Refresher](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Drop%20fields%2C%20reorder%20columns%20Dataframe.ipynb)
       - ##### Data Transformation
         Data transformation entails transforming our data into a simpler format for storage and future use, such as a CSV, spreadsheet, or database file. Once our weather data is cleaned and processed, we would export the final version of the data as a CSV file for future analysis.
-      - [Panda DataFrame Refresher](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Drop%20fields%2C%20reorder%20columns%20Dataframe.ipynb)
+        - ###### Cleaning up the Data
+          - [Dimensionality Reduction](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Dimensionality_Reduction.docx)
+            - Feature Elimination
+            - Feature Extraction
+            - [Principal Component Analyis or PCA] (https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Principal_Component_Analysis.docx)
+              - Mean
+              - Variance
+              - Covariance  
+              - [Linear Transformations](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Linear_Transformations.docx)
+                - Eigenvectors
+                - Eigenvalues
+                - [Eigenvalues and Eigenvectors Documentation](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
+              -   [Principal Component Analyis in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/PCA_Principle_Componet_Analysis.ipynb)
     - #### Types of Unsupervised Learning
       - ##### Transformations
         We use transformations when we need to take raw data and make it easier to understand. Transformations also can help prepare data so that it can be used for other machine learning algorithms. Transformations can reduce the dimensional representation, which simply means we'll be decreasing the number of features used for the model or analysis. After doing so, the data can either be processed for use in other algorithms or narrowed down so it can be viewed in 2D.
       - ##### Clustering Algorithms
-      We use clustering algorithms to group similar objects into clusters. For example, if a cable service wants to group those with similar viewing habits, we would use a clustering algorithm.
-        - [Clustering_Data](
-        - [K-means_Algorithm](
-          - [Initialize the K Starting Centroids and hvPlot in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Initialize%20the%20K%20Starting%20Centroids%20in%20Practice.ipynb)
-            - [hvPlot Documention](https://hvplot.holoviz.org/)
-          - [Trail and Error of Finding Centroids In Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Trail%20and%20Error%20of%20Finding%20Centroids%20In%20Practice.ipynb)
-          - ###### Elbow Curve
-            - [Elbow Curve](
-              - [Kmeans and Elbow Curve Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Kmeans%20and%20Elbow%20curve%20practice.ipynb)
-              - [Using Elbow Curve in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Using%20Elbow%20Curve%20in%20Practice.ipynb)
+        We use clustering algorithms to group similar objects into clusters. For example, if a cable service wants to group those with similar viewing habits, we would use a clustering algorithm.
+        - [Clustering_Data](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Clustering_Data.docx)
+          - [K-Means_vs_Hierarchical_Clustering](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/K-Means_vs_Hierarchical_Clustering.docx)
+            - [No_Free_Lunch (NFL) theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem) 
+            - ###### Hierarchical Clustering
+              - [Understanding_Hierarchical_Clustering](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/K-Means_vs_Hierarchical_Clustering.docx)
+                - Ward
+                - Average
+                - Complete
+            - ###### Dendrograms
+              - [Dendrograms](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Dendrograms.docx) 
+            - [Hierarchical_Clustering and Dendrograms in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Hierarchical_clustering_dendrograms.ipynb)
+            - ###### K-Means Algorithm
+              - [K-means_Algorithm](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/K-means_Algorithm.docx)
+                - [Initialize the K Starting Centroids and hvPlot in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Initialize%20the%20K%20Starting%20Centroids%20in%20Practice.ipynb)
+                - [hvPlot Documention](https://hvplot.holoviz.org/)
+                - [Trail and Error of Finding Centroids In Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Trail%20and%20Error%20of%20Finding%20Centroids%20In%20Practice.ipynb)
+              - ####### Elbow Curve
+                - [Elbow Curve](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Elbow_Curve.docx)
+                  - [Kmeans and Elbow Curve Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Kmeans%20and%20Elbow%20curve%20practice.ipynb)
+                  - [Using Elbow Curve in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Using%20Elbow%20Curve%20in%20Practice.ipynb)
+         
           
         
     
