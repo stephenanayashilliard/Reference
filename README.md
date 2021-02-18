@@ -322,8 +322,8 @@
           - [MDN (CORS) Documentation](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
     - [JavaScript Event Listeners](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Twelve_JavaScript_Plotly_D3.json/JavaScript%20Event%20Listeners.ipynb)
       - Drop Down Menu
-        - #### The <select> tag is used to create a dropdown menu.
-        - #### The <option> tag is used to create each menu option.
+        - #### The SELECT tag is used to create a dropdown menu.
+        - #### The OPTION tag is used to create each menu option.
         - #### updatepage()
   - ### Plotly
     - [Plotly Documentation of Basic Charts](https://plotly.com/javascript/basic-charts/)
