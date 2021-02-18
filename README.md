@@ -286,7 +286,69 @@
     - [index.html: Build the Webpage](https://github.com/stephenanayashilliard/UFO/blob/main/static/index.html)
     - [style.css](https://github.com/stephenanayashilliard/UFO/blob/main/static/css/style.css)
 
-- ## Module 12
+- ## Module 12: JavaScript (JavaScript, Plotly, D3.json)
+  - [Belly_Button_Diversity](https://github.com/stephenanayashilliard/Bellly_Button_Diversity)
+  - ### JavaScript
+    - [Functional JavaScript](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Twelve_JavaScript_Plotly_D3.json/Functional_JavaScript.ipynb)
+      - #### map() method: 
+        The map()method in JavaScript applies a transformation to each element in an array. Like a for loop, it can perform an operation to every element of an array.
+      - #### The filter() Method:  
+        Another functional programming technique is the filter() method. Like the map() method, it accepts another function as its parameter. Like map(), filter() performs an operation on every element in the original array. Unlike map(), however, filter()does not necessarily return an array whose length is the same as the original array.
+      - #### Arrow Functions: 
+          An arrow function in JavaScript is syntactic sugar. That is, an arrow function does the same thing as a standard JavaScript function, but it streamlines the syntax used to accomplish the same task.
+      - #### Sort() Function
+      - #### Slice() Method
+    - [Practicing JavaScript Methods](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Twelve_JavaScript_Plotly_D3.json/Practicing%20JavaScript%20Methods.ipynb)
+      - Sort and Select
+      - Create Arrays
+        - parseInt() Method
+      - Create A Bar Chart with Arrays
+   - ### D3.json():
+     JSON, JavaScript Object Notation, is a data format that sorts and presents data in the form of key-value pairs. It looks much like a Python dictionary and can be traversed through using dot notation.
+    - [Inspect an API call with D3.json](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Twelve_JavaScript_Plotly_D3.json/Inspect%20an%20API%20call%20with%20D3.json().ipynb)
+    - [Load a JSON File with D3.json()](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Twelve_JavaScript_Plotly_D3.json/Load%20a%20JSON%20file%20with%20D3.json().ipynb)
+      - CORS request
+      - Parse the Data
+      - metadata
+      - Extract
+      - Descending order
+      - Delete Null Values
+      - #### Object.entries() method:
+        method allows access to both an object's keys and values. It returns each key-value pair as an array. 
+      - #### foreEach() Method:
+        method allows access to each element of an array.
+      - Handle CORS Errors
+        - Request-response model
+          - [MDN (CORS) Documentation](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+    - [JavaScript Event Listeners](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Twelve_JavaScript_Plotly_D3.json/JavaScript%20Event%20Listeners.ipynb)
+      - Drop Down Menu
+        - #### The <select> tag is used to create a dropdown menu.
+        - #### The <option> tag is used to create each menu option.
+        - #### updatepage()
+  - ### Plotly
+    - [Plotly Documentation of Basic Charts](https://plotly.com/javascript/basic-charts/)
+    - [Inspect_a_Plotly.js_Chart](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Twelve_JavaScript_Plotly_D3.json/Inspect_a_Plotly.js_Chart.ipynb)
+      - Create A Bar Chart 
+      - Troubleshooting 
+      - Choose Layout Options
+      - Create a Pie Chart
+    - [Create a Dynamic Plotly Chart](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Twelve_JavaScript_Plotly_D3.json/Create%20a%20Dynamic%20Plotly%20Chart.ipynb)
+      - With Drop down menu
+      - Ability to select options
+      - init() function: Renders the initial visualization
+      - upDatePlotly() function
+   - ### Bootstrap
+    - [Belly Button Demographics Panel](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Twelve_JavaScript_Plotly_D3.json/Belly%20Button%20Demographics%20Panel.ipynb)
+      - Demographics
+      - Set Up HTML Elements
+      - Dynamically Generate Dropsdown Menu Items
+      - Javascript keyword This
+      - optionChanged()
+
+  - ### Coding
+    - [index.html](https://github.com/stephenanayashilliard/Bellly_Button_Diversity/blob/main/index.html)
+    
+     
 
 - ## Module 13
 
@@ -723,6 +785,7 @@
   - [Census](https://data.census.gov/cedsci/)
   - [iris dataset from the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
   - [The Ramen Rater](https://www.theramenrater.com/)
+  - [Rapid API](https://rapidapi.com/?utm_source=google&utm_medium=cpc&utm_campaign=1674315309_76539154269&utm_term=rapid%20api_e&utm_content=1t1&gclid=CjwKCAjwxt_tBRAXEiwAENY8hYl80EA4_3yhyyHyL6r5SKp6M2vwXPCtGXomEZLF4UERT6aL8LAIOBoCzQQQAvD_BwE)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
