@@ -365,6 +365,10 @@
       - [Leaflet Marker() Function Documentation](https://leafletjs.com/reference-1.6.0.html#marker)
       - [Leaflet circle() Function Documentation](https://leafletjs.com/reference-1.6.0.html#circle)
       - [Leaflet circleMarker() Function Documentation](https://leafletjs.com/reference-1.6.0.html#circlemarker)
+      - [Leaflet Documentation on bindPopUp() method](https://leafletjs.com/reference-1.6.0.html#popup)
+      - [Leaflet Documentation on the polyline() Function](https://leafletjs.com/reference-1.6.0.html#polyline)
+      - [Leaflet Documentation on teh L.GeoJSOn() Layer](https://leafletjs.com/reference-1.6.0.html#geojson)
+      - [Leaflet Layers Control Documentation](https://leafletjs.com/examples/layers-control/)
   - ### HTML Page and CSS File
     - [Create an HTML Page and CSS File in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Create%20an%20HTML%20Page%20and%20CSS%20File.ipynb)
       - HTML Page
@@ -399,6 +403,36 @@
           - circleMarker() Function
             - [Leaflet circleMarker() Function Documentation](https://leafletjs.com/reference-1.6.0.html#circlemarker)
      - ### Map Multiple Points 
+      - [Map_Multiple_Points in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map_Multiple_Points.ipynb)
+        - Bind a Popup Marker
+          - [Leaflet Documentation on bindPopUp() method](https://leafletjs.com/reference-1.6.0.html#popup)
+     - ### Map Lines
+      - [Map Lines](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map_Lines.ipynb)
+        - Map a Single Line
+        - Map Multiple Lines
+          - [Leaflet Documentation on the polyline() Function](https://leafletjs.com/reference-1.6.0.html#polyline)
+     - ### GEoJSON 
+      - GeoJSON Standard Documentation](https://tools.ietf.org/html/rfc7946)
+      - [Overview of GeoJSON Data](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/%20Overview%20of%20GeoJSON%20Data.ipynb)
+        - Geometry Object
+          - Point
+            - [Map_GeoJSON_Point_Type in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map_GeoJSON_Point_Type.ipynb)
+             - Bind a Popup to the Marker
+              - The pointToLayer Function
+              - The onEachFeature Function
+             - [Leaflet Documentation on teh L.GeoJSOn() Layer](https://leafletjs.com/reference-1.6.0.html#geojson)
+          - MultiPoint
+            - [Map_Multiple_GeoJSON_Points in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map_Multiple_GeoJSON_Points.ipynb)
+            - Add Multiple Maps
+              - [Leaflet Layers Control Documentation](https://leafletjs.com/examples/layers-control/)
+          - LineString
+          - MultiLineString
+          - Polygon
+          - MultiPolygon
+          - GeometryCollection 
+        - Features Object
+        - FeaturesCollection Object
+     - ### Coding
          
 
 - ## Module 14
