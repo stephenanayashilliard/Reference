@@ -22,7 +22,9 @@
     - [Python Documentation on the Python Requests Libary](https://requests.kennethreitz.org/en/master/)
     - [Python Package Index](https://pypi.org/)
     - [Python Article on Magic Methods](https://www.geeksforgeeks.org/dunder-magic-methods-python/)
-    - [rPython Article on How to use generators and yield in Python](https://realpython.com/introduction-to-python-generators/#understanding-the-python-yield-statement)
+    - [Python Article on How to use generators and yield in Python](https://realpython.com/introduction-to-python-generators/#understanding-the-python-yield-statement)
+    - [Python Documentation on floating-point limitations](https://docs.python.org/3/tutorial/floatingpoint.html)
+    - [Python Mathmatical Operations](https://en.wikipedia.org/wiki/Order_of_operations)
    - ### Coding:
       - [Data types (creating lists, type(), len(), append(), remove(), pop(), tuples)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/lists_len_append_remove_pop_tuples.ipynb)
       - [Dictionaries](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Dictionaries.ipynb)
