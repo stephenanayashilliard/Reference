@@ -38,6 +38,11 @@
     - [Github Documentation: Basic Writing and Formatting](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
     - [Github: modifying your gitignore file](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Modify_the_gitignore_file.docx)
     - [Github: Reference Guide](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Supplementary_%2BGitHub%20(1).pdf)
+    - [Create a Branch on Your Repository](
+    - [Creating_a_gitignore_file](
+    - [Compare_Branch_to_the_main_Branch](
+    - [Create_a_Pull_Request](
+    - [Merge_Branch_Into_main_Branch](
 
 - ## Module 4: Python (Pandas, Anaconda, Juptyer Notebook)
   - [School_District_Analyas](https://github.com/stephenanayashilliard/School_District_Analysis)
@@ -344,13 +349,91 @@
       - Dynamically Generate Dropsdown Menu Items
       - Javascript keyword This
       - optionChanged()
-
-  - ### Coding
+   - ### Coding
     - [index.html](https://github.com/stephenanayashilliard/Bellly_Button_Diversity/blob/main/index.html)
     
-     
-
-- ## Module 13
+- ## Module 13: Mapping Earthquakes (Javascript, leaflet.js, GeoJSONm, Mapbox API)
+  - [Mapping_earthquakes](https://github.com/stephenanayashilliard/Mapping_Earthquakes)
+  - ### Mapbox API
+    - [Create Mapbox Account](
+      - [Mapbox Documentation](https://www.mapbox.com/pricing/?utm_medium=blog&utm_source=mapbox-blog&utm_campaign=blog%7Cmapbox-blog%7Cpricing%7Cnew-pricing-46b7c26166e7-19-05&utm_term=pricing&utm_content=new-pricing-46b7c26166e7)
+  - ### Leaflet JavaScript Library
+    - [The_Leaflet_JavaScript_Libary](
+      - [Leaflet Home Page](https://leafletjs.com/index.html)
+      - [Leaflet Quick Start Guide](https://leafletjs.com/examples/quick-start/)
+      - [Leaflet documentation on methods using the map object and tile layer](https://leafletjs.com/reference-1.6.0.html#map-example)
+      - [Leaflet Marker() Function Documentation](https://leafletjs.com/reference-1.6.0.html#marker)
+      - [Leaflet circle() Function Documentation](https://leafletjs.com/reference-1.6.0.html#circle)
+      - [Leaflet circleMarker() Function Documentation](https://leafletjs.com/reference-1.6.0.html#circlemarker)
+      - [Leaflet Documentation on bindPopUp() method](https://leafletjs.com/reference-1.6.0.html#popup)
+      - [Leaflet Documentation on the polyline() Function](https://leafletjs.com/reference-1.6.0.html#polyline)
+      - [Leaflet Documentation on teh L.GeoJSOn() Layer](https://leafletjs.com/reference-1.6.0.html#geojson)
+      - [Leaflet Layers Control Documentation](https://leafletjs.com/examples/layers-control/)
+  - ### HTML Page and CSS File
+    - [Create an HTML Page and CSS File in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Create%20an%20HTML%20Page%20and%20CSS%20File.ipynb)
+      - HTML Page
+        - Subresource Integrity Value
+          - [Subresource Integrity Value Documentation](https://leafletjs.com/download.html)
+          - [Subresource Integrity Webpage](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity)
+      - CSS File
+    - [Create a Simple Map in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Create%20a%20Simple%20Map.ipynb)
+      - Create a Simple Map
+      - config.js File
+      - logic.js File
+      - Map Object
+        - L.map()
+        - mapid
+        - setView()
+      - Add a Tile Layer for A Map
+        - [Leaflet Quick Start Guide](https://leafletjs.com/examples/quick-start/)
+      - ### Mapbox  
+        - [Mapbox Glossary](https://docs.mapbox.com/help/glossary/)
+          - [Styles](https://docs.mapbox.com/api/maps/styles/)
+        - [Static Tiles API](https://docs.mapbox.com/help/glossary/static-tiles-api/)
+          - [Static Tiles API Documenation](https://docs.mapbox.com/api/maps/static-tiles/)
+       - Add JavaScript Tags to HTML Page
+       - Open the Map in the Browser
+    - ### Map A Single Point
+      - [Map A Single Point in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map%20a%20Single%20Point.ipynb)
+        - Add a Marker to A Map
+          - [Leaflet Marker() Function Documentation](https://leafletjs.com/reference-1.6.0.html#marker) 
+        - Add a Circle to A Map
+          - Circle() Function
+            - [Leaflet circle() Function Documentation](https://leafletjs.com/reference-1.6.0.html#circle)
+          - circleMarker() Function
+            - [Leaflet circleMarker() Function Documentation](https://leafletjs.com/reference-1.6.0.html#circlemarker)
+     - ### Map Multiple Points 
+      - [Map_Multiple_Points in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map_Multiple_Points.ipynb)
+        - Bind a Popup Marker
+          - [Leaflet Documentation on bindPopUp() method](https://leafletjs.com/reference-1.6.0.html#popup)
+     - ### Map Lines
+      - [Map Lines](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map_Lines.ipynb)
+        - Map a Single Line
+        - Map Multiple Lines
+          - [Leaflet Documentation on the polyline() Function](https://leafletjs.com/reference-1.6.0.html#polyline)
+     - ### GEoJSON 
+      - GeoJSON Standard Documentation](https://tools.ietf.org/html/rfc7946)
+      - [Overview of GeoJSON Data](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/%20Overview%20of%20GeoJSON%20Data.ipynb)
+        - Geometry Object
+          - Point
+            - [Map_GeoJSON_Point_Type in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map_GeoJSON_Point_Type.ipynb)
+             - Bind a Popup to the Marker
+              - The pointToLayer Function
+              - The onEachFeature Function
+             - [Leaflet Documentation on teh L.GeoJSOn() Layer](https://leafletjs.com/reference-1.6.0.html#geojson)
+          - MultiPoint
+            - [Map_Multiple_GeoJSON_Points in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map_Multiple_GeoJSON_Points.ipynb)
+            - Add Multiple Maps
+              - [Leaflet Layers Control Documentation](https://leafletjs.com/examples/layers-control/)
+          - LineString
+          - MultiLineString
+          - Polygon
+          - MultiPolygon
+          - GeometryCollection 
+        - Features Object
+        - FeaturesCollection Object
+     - ### Coding
+         
 
 - ## Module 14
 
@@ -786,6 +869,7 @@
   - [iris dataset from the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
   - [The Ramen Rater](https://www.theramenrater.com/)
   - [Rapid API](https://rapidapi.com/?utm_source=google&utm_medium=cpc&utm_campaign=1674315309_76539154269&utm_term=rapid%20api_e&utm_content=1t1&gclid=CjwKCAjwxt_tBRAXEiwAENY8hYl80EA4_3yhyyHyL6r5SKp6M2vwXPCtGXomEZLF4UERT6aL8LAIOBoCzQQQAvD_BwE)
+  - [Static Tiles API](https://docs.mapbox.com/help/glossary/static-tiles-api/)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
