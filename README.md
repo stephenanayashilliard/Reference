@@ -45,6 +45,12 @@
     - [Compare_Branch_to_the_main_Branch](
     - [Create_a_Pull_Request](
     - [Merge_Branch_Into_main_Branch](
+    - [Github: Generic Workflow](
+    - [Github: Create a New Branch, Step by Step](
+    - [Github:  Learn HOw to Start  a New Group Project on Github](https://www.digitalcrafts.com/blog/learn-how-start-new-group-project-github)
+    - [Github: Git Feature Branch Workflow|Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+    - [Github: A Basick Git Workflow for Small Projects](https://medium.com/@peterjussi/a-basic-git-workflow-for-smaller-projects-d8694d50297d)
+    - [Github: Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 - ## Module 4: Python (Pandas, Anaconda, Juptyer Notebook)
   - [School_District_Analyas](https://github.com/stephenanayashilliard/School_District_Analysis)
