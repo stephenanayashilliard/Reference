@@ -879,6 +879,7 @@
   - [Rapid API](https://rapidapi.com/?utm_source=google&utm_medium=cpc&utm_campaign=1674315309_76539154269&utm_term=rapid%20api_e&utm_content=1t1&gclid=CjwKCAjwxt_tBRAXEiwAENY8hYl80EA4_3yhyyHyL6r5SKp6M2vwXPCtGXomEZLF4UERT6aL8LAIOBoCzQQQAvD_BwE)
   - [Static Tiles API](https://docs.mapbox.com/help/glossary/static-tiles-api/)
   - [covidtracking.com](https://covidtracking.com/)
+  - [Ipums USA](https://usa.ipums.org/)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
