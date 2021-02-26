@@ -365,8 +365,9 @@
   - ### Mapbox API
     - [Create Mapbox Account](
       - [Mapbox Documentation](https://www.mapbox.com/pricing/?utm_medium=blog&utm_source=mapbox-blog&utm_campaign=blog%7Cmapbox-blog%7Cpricing%7Cnew-pricing-46b7c26166e7-19-05&utm_term=pricing&utm_content=new-pricing-46b7c26166e7)
+      - [Mapbox Styles](https://docs.mapbox.com/api/maps/styles/)
   - ### Leaflet JavaScript Library
-    - [The_Leaflet_JavaScript_Libary](
+    - [The_Leaflet_JavaScript_Libary](https://github.com/stephenanayashilliard/Reference/blob/main/Thirteen_Javascript_leaflet_geoJSON_Mapbox/The_Leaflet_JavaScript_Libary.docx)
       - [Leaflet Home Page](https://leafletjs.com/index.html)
       - [Leaflet Quick Start Guide](https://leafletjs.com/examples/quick-start/)
       - [Leaflet documentation on methods using the map object and tile layer](https://leafletjs.com/reference-1.6.0.html#map-example)
@@ -377,6 +378,9 @@
       - [Leaflet Documentation on the polyline() Function](https://leafletjs.com/reference-1.6.0.html#polyline)
       - [Leaflet Documentation on teh L.GeoJSOn() Layer](https://leafletjs.com/reference-1.6.0.html#geojson)
       - [Leaflet Layers Control Documentation](https://leafletjs.com/examples/layers-control/)
+      - [Leaflet Documentation on color options andother features of Polygons](https://leafletjs.com/reference-1.6.0.html#path-color)
+      - [Leafelet Documentation on Layer Groups and Layers Congrol](https://leafletjs.com/examples/layers-control/)
+      - [Leaflet Documentation on Choropleth Examples](https://leafletjs.com/examples/choropleth/)
   - ### HTML Page and CSS File
     - [Create an HTML Page and CSS File in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Create%20an%20HTML%20Page%20and%20CSS%20File.ipynb)
       - HTML Page
@@ -420,7 +424,7 @@
         - Map Multiple Lines
           - [Leaflet Documentation on the polyline() Function](https://leafletjs.com/reference-1.6.0.html#polyline)
      - ### GEoJSON 
-      - GeoJSON Standard Documentation](https://tools.ietf.org/html/rfc7946)
+      - [GeoJSON Standard Documentation](https://tools.ietf.org/html/rfc7946)
       - [Overview of GeoJSON Data](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/%20Overview%20of%20GeoJSON%20Data.ipynb)
         - Geometry Object
           - Point
@@ -433,14 +437,33 @@
             - [Map_Multiple_GeoJSON_Points in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map_Multiple_GeoJSON_Points.ipynb)
             - Add Multiple Maps
               - [Leaflet Layers Control Documentation](https://leafletjs.com/examples/layers-control/)
-          - LineString
-          - MultiLineString
-          - Polygon
-          - MultiPolygon
-          - GeometryCollection 
-        - Features Object
-        - FeaturesCollection Object
+          - LineString and Multiline Strings
+            - [Map_GeoJSON_LineStrings and Multiline Strings_In_Practice](http://localhost:8892/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map_GeoJSON_LineStrings.ipynb)
+          - Polygon and MultiPolygon
+            - [Map_GeoJSON_Polygons_In_Practice](http://localhost:8892/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Map_GeoJSON_Polygons_In_Practice.ipynb)
+            - [Leaflet Documentation on color options andother features of Polygons](https://leafletjs.com/reference-1.6.0.html#path-color)
+     - ### Adding Data to a Map
+      - [Adding_Data_to_A_Map_in_Practice](http://localhost:8892/notebooks/Desktop/Class%20Projects/Reference/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Adding_Data_to_A_Map_in_Practice.ipynb)
+        - Add Data to the Map
+          - [USGS Home Page](https://earthquake.usgs.gov/)
+          - [Earthquakes](https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes)
+          - [Real-time Notifications, Feeds, and Web Services](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
+          - [GeoJSON Summary Feed](https://earthquake.usgs.gov/earthquakes/feed/)
+        - Add Style to the Map
+        - Add Color and a Popup to the Map
+        - Adding Data as an Overlay
+          - [Leaflet Documentation on Layer Groups and Layers Congrol](https://leafletjs.com/examples/layers-control/)
+        - Add a Legend to the Map
+          - [Leaflet Documentation on Choropleth Examples](https://leafletjs.com/examples/choropleth/)
      - ### Coding
+      - [Earthquakes_past7days](https://github.com/stephenanayashilliard/Mapping_Earthquakes/tree/main/Earthquakes_past7days)
+      - [Mapping_GeoJSON_Linestrings](https://github.com/stephenanayashilliard/Mapping_Earthquakes/tree/main/Mapping_GeoJSON_Linestrings)
+      - [Mapping_GeoJSON_Points](https://github.com/stephenanayashilliard/Mapping_Earthquakes/tree/main/Mapping_GeoJSON_Points)
+      - [Mapping_GeoJSON_Polygons](https://github.com/stephenanayashilliard/Mapping_Earthquakes/tree/main/Mapping_GeoJSON_Polygons)
+      - [Mapping_Lines](https://github.com/stephenanayashilliard/Mapping_Earthquakes/tree/main/Mapping_Lines)
+      - [Mapping_Mult_GeoJSON_Points](https://github.com/stephenanayashilliard/Mapping_Earthquakes/tree/main/Mapping_Mult_GeoJSON_Points)
+      - [Mapping_Multiple_Points](https://github.com/stephenanayashilliard/Mapping_Earthquakes/tree/main/Mapping_Multiple_Points)
+      - [Mapping_Single_Points](https://github.com/stephenanayashilliard/Mapping_Earthquakes/tree/main/Mapping_Single_Points)
          
 
 - ## Module 14
@@ -771,9 +794,6 @@
                 - [HDF5 Documentation](https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
                 - [Practice Encoding:  Save your Training](http://localhost:8891/notebooks/Desktop/Class%20Projects/Neural-Network/DeepLearning_Tabular.ipynb#Compile-the-Model)
 
-
-           
-
 - ## Module 20
   - [Final Project]
   - [Rubric for the entire Final Project](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Module%2B20%2B-Full%2BRubric_Final%2BProject%20(1).pdf)
@@ -826,6 +846,7 @@
       - [10 Essential Machine Learning Interview Questions](https://www.toptal.com/machine-learning/interview-questions)
       - [Top 34 Machine Learning Interview Questions & Answers for 2020](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions)
       - [41 Essential Machine Learning Interview Questions](https://www.springboard.com/blog/machine-learning-interview-questions/)
+      - [Medium.com  Read and Share Ideas with other Experts](https://medium.com/)
   - ### Portfolio Websites
     - [Create a Portfolio Instructions](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Create_a_portfolio_instructions.docx)
     - Portfolio Templates
@@ -880,6 +901,7 @@
   - [Static Tiles API](https://docs.mapbox.com/help/glossary/static-tiles-api/)
   - [covidtracking.com](https://covidtracking.com/)
   - [Ipums USA](https://usa.ipums.org/)
+  - [USGS HOME PAGE](https://earthquake.usgs.gov/)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
