@@ -40,16 +40,15 @@
     - [Github Documentation: Basic Writing and Formatting](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
     - [Github: modifying your gitignore file](https://github.com/stephenanayashilliard/Reference/blob/main/Six_Python_APIs/Modify_the_gitignore_file.docx)
     - [Github: Reference Guide](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Supplementary_%2BGitHub%20(1).pdf)
-    - [Create a Branch on Your Repository](
-    - [Creating_a_gitignore_file](
-    - [Compare_Branch_to_the_main_Branch](
-    - [Create_a_Pull_Request](
-    - [Merge_Branch_Into_main_Branch](
-    - [Github: Generic Workflow](
-    - [Github: Create a New Branch, Step by Step](
+    - [Create a Branch on Your Repository](https://github.com/stephenanayashilliard/Reference/blob/main/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Create_a_Branch_on_Your_Repository.docx)
+    - [Creating_a_gitignore_file](https://github.com/stephenanayashilliard/Reference/blob/main/Thirteen_Javascript_leaflet_geoJSON_Mapbox/creating_a_gitignore_file.docx)
+    - [Compare_Branch_to_the_main_Branch](https://github.com/stephenanayashilliard/Reference/blob/main/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Compare_Branch_to_the_main_Branch.docx)
+    - [Create_a_Pull_Request](https://github.com/stephenanayashilliard/Reference/blob/main/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Create_a_Pull_Request.docx)
+    - [Merge_Branch_Into_main_Branch](https://github.com/stephenanayashilliard/Reference/blob/main/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Merge_Branch_Into_main_Branch.docx)
+    - [Github: Generic Workflow](https://github.com/stephenanayashilliard/Reference/blob/main/Thirteen_Javascript_leaflet_geoJSON_Mapbox/GIT_Workflow.docx)
     - [Github:  Learn HOw to Start  a New Group Project on Github](https://www.digitalcrafts.com/blog/learn-how-start-new-group-project-github)
     - [Github: Git Feature Branch Workflow|Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
-    - [Github: A Basick Git Workflow for Small Projects](https://medium.com/@peterjussi/a-basic-git-workflow-for-smaller-projects-d8694d50297d)
+    - [Github: A Basic Git Workflow for Small Projects](https://medium.com/@peterjussi/a-basic-git-workflow-for-smaller-projects-d8694d50297d)
     - [Github: Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 - ## Module 4: Python (Pandas, Anaconda, Juptyer Notebook)
@@ -363,7 +362,7 @@
 - ## Module 13: Mapping Earthquakes (Javascript, leaflet.js, GeoJSONm, Mapbox API)
   - [Mapping_earthquakes](https://github.com/stephenanayashilliard/Mapping_Earthquakes)
   - ### Mapbox API
-    - [Create Mapbox Account](
+    - [Create Mapbox Account](https://github.com/stephenanayashilliard/Reference/blob/main/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Create_Mapbox_Account.docx)
       - [Mapbox Documentation](https://www.mapbox.com/pricing/?utm_medium=blog&utm_source=mapbox-blog&utm_campaign=blog%7Cmapbox-blog%7Cpricing%7Cnew-pricing-46b7c26166e7-19-05&utm_term=pricing&utm_content=new-pricing-46b7c26166e7)
       - [Mapbox Styles](https://docs.mapbox.com/api/maps/styles/)
   - ### Leaflet JavaScript Library
