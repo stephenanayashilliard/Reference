@@ -22,7 +22,9 @@
     - [Python Documentation on the Python Requests Libary](https://requests.kennethreitz.org/en/master/)
     - [Python Package Index](https://pypi.org/)
     - [Python Article on Magic Methods](https://www.geeksforgeeks.org/dunder-magic-methods-python/)
-    - [rPython Article on How to use generators and yield in Python](https://realpython.com/introduction-to-python-generators/#understanding-the-python-yield-statement)
+    - [Python Article on How to use generators and yield in Python](https://realpython.com/introduction-to-python-generators/#understanding-the-python-yield-statement)
+    - [Python Documentation on floating-point limitations](https://docs.python.org/3/tutorial/floatingpoint.html)
+    - [Python Mathmatical Operations](https://en.wikipedia.org/wiki/Order_of_operations)
    - ### Coding:
       - [Data types (creating lists, type(), len(), append(), remove(), pop(), tuples)](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/lists_len_append_remove_pop_tuples.ipynb)
       - [Dictionaries](https://github.com/stephenanayashilliard/Reference/blob/main/Three_Python/Dictionaries.ipynb)
@@ -43,6 +45,12 @@
     - [Compare_Branch_to_the_main_Branch](
     - [Create_a_Pull_Request](
     - [Merge_Branch_Into_main_Branch](
+    - [Github: Generic Workflow](
+    - [Github: Create a New Branch, Step by Step](
+    - [Github:  Learn HOw to Start  a New Group Project on Github](https://www.digitalcrafts.com/blog/learn-how-start-new-group-project-github)
+    - [Github: Git Feature Branch Workflow|Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+    - [Github: A Basick Git Workflow for Small Projects](https://medium.com/@peterjussi/a-basic-git-workflow-for-smaller-projects-d8694d50297d)
+    - [Github: Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
 - ## Module 4: Python (Pandas, Anaconda, Juptyer Notebook)
   - [School_District_Analyas](https://github.com/stephenanayashilliard/School_District_Analysis)
@@ -870,6 +878,8 @@
   - [The Ramen Rater](https://www.theramenrater.com/)
   - [Rapid API](https://rapidapi.com/?utm_source=google&utm_medium=cpc&utm_campaign=1674315309_76539154269&utm_term=rapid%20api_e&utm_content=1t1&gclid=CjwKCAjwxt_tBRAXEiwAENY8hYl80EA4_3yhyyHyL6r5SKp6M2vwXPCtGXomEZLF4UERT6aL8LAIOBoCzQQQAvD_BwE)
   - [Static Tiles API](https://docs.mapbox.com/help/glossary/static-tiles-api/)
+  - [covidtracking.com](https://covidtracking.com/)
+  - [Ipums USA](https://usa.ipums.org/)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
