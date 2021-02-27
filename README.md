@@ -901,6 +901,7 @@
   - [covidtracking.com](https://covidtracking.com/)
   - [Ipums USA](https://usa.ipums.org/)
   - [USGS HOME PAGE](https://earthquake.usgs.gov/)
+  - [Getty Images](Great place for free images)
   
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
