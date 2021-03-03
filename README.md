@@ -860,7 +860,10 @@
       - [HackerRank](https://www.hackerrank.com/)
       - [CodeSignal](https://codesignal.com/)
 
-- ## Data Sites
+- ## Useful Tools
+  - [Figma: create, test, ship betters designs from start to finish](https://www.figma.com/)  
+
+- ## Data Sites      
   - [United_States Congress-Legislators](https://github.com/unitedstates/congress-legislators)
   - [United States Census Data](https://www.census.gov/data.html)
   - [FBI Crime Data](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/topic-pages/tables/table-1)
