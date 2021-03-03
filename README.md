@@ -465,7 +465,7 @@
       - [Mapping_Single_Points](https://github.com/stephenanayashilliard/Mapping_Earthquakes/tree/main/Mapping_Single_Points)
          
 
-- ## Module 14
+- ## Module 14: Tableau
 
 
 - ## Module 15: Statistcs and R (Python, RScripts, RStudio, tidyverse, ggplot2)
