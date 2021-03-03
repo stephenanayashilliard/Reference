@@ -359,7 +359,7 @@
    - ### Coding
     - [index.html](https://github.com/stephenanayashilliard/Bellly_Button_Diversity/blob/main/index.html)
     
-- ## Module 13: Mapping Earthquakes (Javascript, leaflet.js, GeoJSONm, Mapbox API)
+- ## Module 13: Mapping Earthquakes (Javascript, leaflet.js, GeoJSON, Mapbox API)
   - [Mapping_earthquakes](https://github.com/stephenanayashilliard/Mapping_Earthquakes)
   - ### Mapbox API
     - [Create Mapbox Account](https://github.com/stephenanayashilliard/Reference/blob/main/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Create_Mapbox_Account.docx)
