@@ -248,6 +248,7 @@
     - [HTML Search for Elements](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/HTML_Search_for_Elements.docx)
     - [HTML Customize the Appearance with HTML Template](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/HTML_Customize_the_Appearance.docx)
     - [Official Designer Template Documentation](https://jinja.palletsprojects.com/en/2.10.x/templates/#working-with-automatic-escaping)
+    - [HTML Colors](https://www.w3schools.com/html/html_colors.asp)
   - ### Flask
     - [Update the Code](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Update_the_code.docx)
   - ### Chrome Developer Tools
