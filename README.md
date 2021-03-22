@@ -860,6 +860,8 @@
     - Python
       - [HackerRank](https://www.hackerrank.com/)
       - [CodeSignal](https://codesignal.com/)
+    - Tableu
+      - [Tableau Certification](https://www.tableau.com/learn/certification?utm_campaign_id=2018159&utm_campaign=Nurture-CE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=tableau%20certification%20exam&adgroup=CTX-)  
 
 - ## Useful Tools
   - [Figma: create, test, ship betters designs from start to finish](https://www.figma.com/)  
