@@ -995,7 +995,8 @@ The following is a quick reference guide to helpful information concerning progr
   - [The Impostor Syndrome and How to Handle it](https://www.psychologytoday.com/us/blog/adaptation/201611/the-impostor-syndrome-and-how-handle-it)
 
 ## Contact Information
-email:  stephenanayashilliard@gmail.com
-linkedin: [Linkedin](https://www.linkedin.com/notifications/)
+Email:  stephenanayashilliard@gmail.com
+
+Linkedin: [Linkedin](https://www.linkedin.com/notifications/)
 
 
