@@ -1,14 +1,119 @@
-# Quick Reference for Bootcamp:UCB
+# Quick Reference Guide for Data Analytics
 
-- ## Module 1:  Excel
-  - [Kickstarter-analysis](https://github.com/stephenanayashilliard/Kickstarter-analysis)
+The following is a quick reference guide to helpful information concerning programming langauges, tools and articles associated with Data Analytics and the Data Analytics Bootcamp offered by University of California, Berkeley Extenstion. 
+
+# Table of Contents
+  - Chapter 1: Excel
+  - Chapter 2: VBA
+  - Chapter 3: Python
+    - VS Code
+    - Github
+  - Chapter 4: Python and Pandas
+    - Jupyter Notebook
+    - Pandas
+  - Chapter 5: Python, Matplotlib, SciPy and Numpy
+    - Matplotlib
+    - SciPy
+    - NumPy
+  - Chapter 6:  Python and APIs
+    - APIs
+    - Random Module
+    - Timeit Module
+    - CitiPy Module
+    - Datetime Module
+    - Google Maps and Places API
+    - Python Requests Library
+    - Linear Regression
+  - Chapter 7: Python, PostgresSQL and pgAdmin
+    -  PostgresSQL
+    -  pgAdmin
+    -  ERDS
+  - Chapter 8: Python and Using ETL to Collect, Import and Process Data
+    - ETL
+  - Chapter 9: Python, VS Code, SQLite, SQLAlchemy and Fask
+    - SQLite
+    - SQLAlchemy
+    - Flask
+  - Chapter 10: Web Scraping to Extract Online Data using Splinter, BeautifulSoup, NoSQL and MongoDB
+    - Splinter
+    - MongoDB
+    - HTML Elements
+    - Flask
+    - Chrome Developer Tools
+  - Chapter 11: JavaScript, VS Code, HTML and Bootstrap
+    - JavaScript
+    - Bootstrap Components
+    - CSS Components and Stylesheet
+  - Chapter 12: JavaScript, Plotly and D3.json
+    - JavaScript
+      - map()
+      - filter()
+      - Arrow Functions
+      - Sort()
+      - Slice()
+    - D3.json()
+      - Object.entries()
+      - foreEach()
+    - Plotly
+    - Bootstrap
+  - Chapter 13: JavaScript, leaflet.js, GeoJSON and Mapbox API
+    - Mapbox API
+    - Leaflet.js
+    - HTML and CSS File
+    - GeoJSON
+    - Adding Data to a Map
+  - Chapter 14: Tableau
+  - Chapter 15: Statistics and R
+    - R
+    - RStudio
+    - TidyVerse
+    - ggPlot2
+    - Statistical Test Types
+  - Chapter 16: Big Data
+    - Big Data
+    - Apache Hadoop
+    - Spark
+    - PySpark
+    - Yarn
+    - Amazon Web Services
+  - Chapter 17: Machine Learning
+    - Machine Learning
+      - Decision Trees
+        - Random Forest
+        - Linear Regression
+        - Logistic Regression
+        - Support Vector Machines
+  - Chapter 18: Unsupervised Learning
+    - Unsupervised Learning
+      - Transformations
+      - Clustering Algorithms
+        - Hierarchical Clustering
+        - Dendrograms
+        - K-Means 
+          - Elbow Curve
+  - Chapter 19: Neural Networks, Deep Learning Models and TensorFlow
+    - Neural Network
+    - TensorFlow
+  - Special Sites
+  - Employment Services
+    - Job Sites
+    - Other Helpful Employment Sites
+    - Portfolio Websites
+    - Data Analyst Information
+    - Testing your Skills
+  - Useful Tools
+  - Data Sites
+  - Interesting Reads           
+
+- ## Chapter 1:  Excel
+  
     - [Interguartiel range](https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244)
 
-- ## Module 2:  VBA
+- ## Chapter 2:  VBA
   - [Stock-Analysis](https://github.com/stephenanayashilliard/Stock-Analysis)
 
-- ## Module 3:  Python (VS Code, Github)
-  - [Election Analysis](https://github.com/stephenanayashilliard/Election_Analysis)
+- ## Chapter 3:  Python (VS Code, Github)
+ 
   - ### Python
     - [Python Download](https://www.python.org/downloads/)
     - [Python Data Types](https://docs.python.org/3.6/library/stdtypes.html#numeric-types-int-float-complex)
@@ -51,8 +156,8 @@
     - [Github: A Basic Git Workflow for Small Projects](https://medium.com/@peterjussi/a-basic-git-workflow-for-smaller-projects-d8694d50297d)
     - [Github: Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 
-- ## Module 4: Python (Pandas, Anaconda, Juptyer Notebook)
-  - [School_District_Analyas](https://github.com/stephenanayashilliard/School_District_Analysis)
+- ## Chapter 4: Python (Pandas, Anaconda, Juptyer Notebook)
+ 
   - ### Python
     - [Python Package Index](https://pypi.org/)
   - ### Jupyter Notebook
@@ -95,8 +200,8 @@
       - [Taking Care of Missing Data: Drop the NaNs, Fill in the NaNs](http://localhost:8889/notebooks/Desktop/Class%20Projects/School_District_Analysis/cleaning_data.ipynb)
       - [Cleaning the Data: tolist(); split(); set(); strip(), replace(); Replacing Substrings;  ](http://localhost:8889/notebooks/Desktop/Class%20Projects/School_District_Analysis/cleaning_student_names.ipynb)
       
-- ## Module 5: (Python and Matplotlib and SciPy and NumPy)
-  - [PyBer_Analysis](https://github.com/stephenanayashilliard/PyBer_Analysis)
+- ## Chapter 5: (Python and Matplotlib and SciPy and NumPy)
+ 
   - ### Matplotlib
     - [Matplotlib Intstallation Windows](https://github.com/stephenanayashilliard/Reference/blob/main/Five_Python_Matplotlib_SciPy_Numpy/Matplotlib_Intallation_Windows.docx)
     - [Matplotlib Documentation](https://matplotlib.org/3.1.0/index.html)
@@ -140,8 +245,8 @@
       - [Matplotlib:  Plot a DataFrame and Series and import statistics](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/PyBer_ride_data.ipynb)
       - [Matplotlib:  Step by Step, import, analysis: Summary Statisics; SciPY (Central Tendency); charting; Box-and-Whisker Plots](https://github.com/stephenanayashilliard/PyBer_Analysis/blob/main/PyBer.ipynb)
       
-- ## Module 6: (Python and APIs)
-  - [World_Weather Analysis Using APIs](http://localhost:8888/tree/Desktop/Class%20Projects/World_Weather_Analysis)
+- ## Chapter 6: (Python and APIs)
+  
   - ### APIs
   - ### random module
       - [documentation on numpy.random.uniform()](https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.uniform.html)
@@ -178,8 +283,8 @@
       - [Create Heatmaps for Weather Parameters; Create a customer Prompt; Set the Parameters for a Nearby Search; Add A Pop Up Marker; ](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/VacationPy.ipynb)
       - [Practice Using a Fixed Latitude and Longitude](http://localhost:8888/notebooks/Desktop/Class%20Projects/World_Weather_Analysis/Google_Nearby_Search.ipynb)
       
-- ## Module 7: (Python, PostgresSQL, pgAdmin)
-  - [Pewlett_Hackard_Analysis](https://github.com/stephenanayashilliard/Pewlett_Hackard_Analysis)
+- ## Chapter 7: (Python, PostgresSQL, pgAdmin)
+  
   - ### PostgresSQL
       - [Description and Set Up](https://github.com/stephenanayashilliard/Reference/blob/main/Seven_PostgresSQL_pgAdmin/PostgresSQL_Description_Set_UP.docx)
       - [PostgrestSQL Download Website](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
@@ -202,8 +307,8 @@
       - [Quickdatabasediagrams](https://www.quickdatabasediagrams.com/)
       - [Entity Relationships Tutorial](https://www.entityframeworktutorial.net/entity-relationships.aspx)
       
-- ## Module 8: (Python, Using ETL to Collect, Import and Process Data)
-  - [Movies-ETL](https://github.com/stephenanayashilliard/Movies-ETL)
+- ## Chapter 8: (Python, Using ETL to Collect, Import and Process Data)
+  
   - ### ETL (Extract,Transform, Load)
       - [Intro to ETL](https://github.com/stephenanayashilliard/Reference/blob/main/Eight_ETL/Intro_to_ETL.docx)
       - [Extracting_the_Data: (Dependencies; Import File, Load JSON into a List of Dictionaries](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/data_cleaning.ipynb)
@@ -219,8 +324,8 @@
       - [Clean_Wiki_Movies](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/ETL_clean_wiki_movies.ipynb)
       - [Clean_Kaggle_Data](http://localhost:8889/notebooks/Desktop/Class%20Projects/Movies-ETL/ETL_clean_kaggle_data.ipynb)
       
-- ## Module 9: (Python, VS Code, SQLite, SQLAlchemy, Flask)
-  - [Surfs_Up](https://github.com/stephenanayashilliard/Surfs_UP)
+- ## Chapter 9: (Python, VS Code, SQLite, SQLAlchemy, Flask)
+  
   - ### SQLite
     - [Getting Started with SQLite](https://github.com/stephenanayashilliard/Reference/blob/main/Nine_Python_VScode_SQLite%2C_SQLAlchemy%2C_Flask/Getting_Started_With_SQLite.docx)
   - ### SQLAlchemy
@@ -233,8 +338,8 @@
     - [app.py for Flask](https://github.com/stephenanayashilliard/Surfs_UP/blob/main/app.py)
     - [scrape_mars_py](https://github.com/stephenanayashilliard/Mission-to-Mars/blob/main/Mars_Scraping/scrape_mars.py)
     
-- ## Module 10: (Web Scraping to Extract Online Data: Splinter, BeautifulSoup, NoSQL, MongoDB) 
-  - [Mission to Mars](https://github.com/stephenanayashilliard/Mission-to-Mars)
+- ## Chapter 10: (Web Scraping to Extract Online Data: Splinter, BeautifulSoup, NoSQL, MongoDB) 
+  
   - ### Splinter
     - [Splinter, BeautifulSoup, MongoDB Install](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Splinter_BeautifulSoup_MongoDB_Install.docx)
     - [Use Splinter](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Use_Splinter.docx)
@@ -262,8 +367,8 @@
     - [Jupyter Notebook coding example for app](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Jupyter%20Notebook%20Coding%20example%20for%20app.py-Copy1.ipynb)
     - [Update the Code](https://github.com/stephenanayashilliard/Reference/blob/main/Ten_Web_Scraping/Update%20the%20Code.ipynb)
     
-- ## Module 11: (JavaScript, VS Code, HTML, Bootstrap)
-  - [UFO](https://github.com/stephenanayashilliard/UFO)
+- ## Chapter 11: (JavaScript, VS Code, HTML, Bootstrap)
+  
   - ### JavaScript (app.js)
     - [Overview of ES6+](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/Overiew_of_ES6%2B.docx)
     - [JavaScript in the Real World](https://github.com/stephenanayashilliard/Reference/blob/main/Eleven_Javascript_HTML_Bootstrap/JavaScript_in_the_Real_World.docx)
@@ -299,8 +404,8 @@
     - [index.html: Build the Webpage](https://github.com/stephenanayashilliard/UFO/blob/main/static/index.html)
     - [style.css](https://github.com/stephenanayashilliard/UFO/blob/main/static/css/style.css)
 
-- ## Module 12: JavaScript (JavaScript, Plotly, D3.json)
-  - [Belly_Button_Diversity](https://github.com/stephenanayashilliard/Bellly_Button_Diversity)
+- ## Chapter 12: JavaScript (JavaScript, Plotly, D3.json)
+ 
   - ### JavaScript
     - [Functional JavaScript](http://localhost:8891/notebooks/Desktop/Class%20Projects/Reference/Twelve_JavaScript_Plotly_D3.json/Functional_JavaScript.ipynb)
       - #### map() method: 
@@ -360,8 +465,8 @@
    - ### Coding
     - [index.html](https://github.com/stephenanayashilliard/Bellly_Button_Diversity/blob/main/index.html)
     
-- ## Module 13: Mapping Earthquakes (Javascript, leaflet.js, GeoJSON, Mapbox API)
-  - [Mapping_earthquakes](https://github.com/stephenanayashilliard/Mapping_Earthquakes)
+- ## Chapter 13: Javascript, leaflet.js, GeoJSON, Mapbox API
+
   - ### Mapbox API
     - [Create Mapbox Account](https://github.com/stephenanayashilliard/Reference/blob/main/Thirteen_Javascript_leaflet_geoJSON_Mapbox/Create_Mapbox_Account.docx)
       - [Mapbox Documentation](https://www.mapbox.com/pricing/?utm_medium=blog&utm_source=mapbox-blog&utm_campaign=blog%7Cmapbox-blog%7Cpricing%7Cnew-pricing-46b7c26166e7-19-05&utm_term=pricing&utm_content=new-pricing-46b7c26166e7)
@@ -466,11 +571,11 @@
       - [Mapping_Single_Points](https://github.com/stephenanayashilliard/Mapping_Earthquakes/tree/main/Mapping_Single_Points)
          
 
-- ## Module 14: Tableau
+- ## Chapter 14: Tableau
 
 
-- ## Module 15: Statistcs and R (Python, RScripts, RStudio, tidyverse, ggplot2)
-  - [MechaCar_Statistical_Analysis](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis)
+- ## Chapter 15: Statistcs and R (Python, RScripts, RStudio, tidyverse, ggplot2)
+  
   - ### R
     - [Intro to R and RStudio](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Introduction%20to%20R.docx)
     - [Installing R](https://github.com/stephenanayashilliard/Reference/blob/main/Fifthteen_Statistics_and_R/Installing_R.docx)
@@ -549,8 +654,8 @@
     - [MechCare_Statistical_Analysis](https://github.com/stephenanayashilliard/MechaCar_Statistical_Analysis/blob/main/MechCarChallenge.R)
     
 
-- ## Module 16: Big Data (Python, pgAdmin, Hadoop, MapReduce, PySpark, Natural Language Processing (NLP), Amazon Web Services (AWS))
-  - [Amazon_Vine_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
+- ## Chapter 16: Big Data (Python, pgAdmin, Hadoop, MapReduce, PySpark, Natural Language Processing (NLP), Amazon Web Services (AWS))
+ 
   - ### Big Data
     - [What_Is_Big_Data](https://github.com/stephenanayashilliard/Reference/blob/main/Sixteen_Big_Data/What_Is_Big_Data.docx)
   - ###  Apache Hadoop
@@ -615,8 +720,8 @@
       - [Vine_review_Analysis](https://github.com/stephenanayashilliard/Amazon_Vine_Analyis)
 
 
-- ## Module 17: Machine Learning (Python, sklearn,Machine Learning Algorithms, Logistic Regression, Decision Tree, Random Forest, Ensemble and Resampling Techniques)
-  - [Credit_Risk_Analysis](https://github.com/stephenanayashilliard/Credit_Risk_Analyis)
+- ## Chapter 17: Machine Learning (Python, sklearn,Machine Learning Algorithms, Logistic Regression, Decision Tree, Random Forest, Ensemble and Resampling Techniques)
+ 
   - ### Machine Learning
     - [Create_a_Machine_Learning_Environment](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Create_a_Machine_Learning_Environment.docx)
     - [Assess Accuracy_Precision_and_Sensitivity](https://github.com/stephenanayashilliard/Reference/blob/main/Seventeen_Machine_Learning/Assess%20Accuracy_Precision_and_Sensitivity.docx)
@@ -660,8 +765,8 @@
             - [SVM in Practice](http://localhost:8889/notebooks/Desktop/Class%20Projects/Linear_regression/Resources/Class%20examples/17-5-2-svm/Notebook/svm_loan_approver.ipynb)
       
 
-- ## Module 18: Unsupervised Learning (K-Means Algorithm, Centroids for Elbow Curve, PCA, skikit-learn, Plotly, hvPlot)
-  - [Crptocurrencies](https://github.com/stephenanayashilliard/Cryptocurrencies)
+- ## Chapter 18: Unsupervised Learning (K-Means Algorithm, Centroids for Elbow Curve, PCA, skikit-learn, Plotly, hvPlot)
+  
   - ### Unsupervised Learning
     - [Unsupervised Learning](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Unsupervised_Learning.docx)
     - [Install sckikit-learn, Plotly, hvPlot](https://github.com/stephenanayashilliard/Reference/blob/main/Eighteen_Unsupervised%20Learning/Install_Scikit-learn.docx)
@@ -712,7 +817,7 @@
                   - [Kmeans and Elbow Curve Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Kmeans%20and%20Elbow%20curve%20practice.ipynb)
                   - [Using Elbow Curve in Practice](http://localhost:8891/notebooks/Desktop/Class%20Projects/Cryptocurrencies/Class%20Work/Using%20Elbow%20Curve%20in%20Practice.ipynb)
          
- - ## Module 19: Rise of Machine Learning (Neural Networks, Deep Learning Models, TensorFlow)
+ - ## Chapter 19: Machine Learning (Neural Networks, Deep Learning Models, TensorFlow)
   - ### Neural Network
     - [What is a Neural Network](https://github.com/stephenanayashilliard/Reference/blob/main/Nineteen_The_Rise_of_Machine_Learning/What_is_a_Neural_Network.docx)
       - #### Perceptron
@@ -794,33 +899,6 @@
                 - [HDF5 Documentation](https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
                 - [Practice Encoding:  Save your Training](http://localhost:8891/notebooks/Desktop/Class%20Projects/Neural-Network/DeepLearning_Tabular.ipynb#Compile-the-Model)
 
-- ## Module 20
-  - [Final Project]
-  - [Rubric for the entire Final Project](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Module%2B20%2B-Full%2BRubric_Final%2BProject%20(1).pdf)
-  - # Project Road Map
-    [First_Segment_Rubric](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Module%2B20%2B-Project%2BRubrics%2B-%2BSegment%2B1.pdf)
-    - First Segment: Sketch it Out
-      - Decide on your overall project, select your question, and build a simple model. You'll connect the model to a fabricated database, using comma-separated values (CSV) or JavaScript Object Notation (JSON) files, to prototype your idea.
-        - Team Members
-          - Square: The team member in the square role will be responsible for the repository.
-          - Triangle: The member in the triangle role will create a mockup of a machine learning model. This can even be a diagram that explains how it will work concurrently with the rest of the project steps.
-          - Circle: The member in the circle role will create a mockup of a database with a set of sample data, or even fabricated data. This will ensure the database will work seamlessly with the rest of the project.
-          - X: The member in the X role will decide which technologies will be used for each step of the project.
-        - [GitHub Repository](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/GitHub_Repository.docx)
-        - [GitHub Set Up Your Branches](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/GitHub_Set_Up_Your_Branches.docx)
-        - [Create Simple Machine](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Creating_Simple_Machine_Learing_Model.docx)
-        - [Mockup Database](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Mockup_Database.docx)
-        - [What technology are we using](
-    - Second Segment: Build your Pieces
-      - Train your model and build out the database you'll use for your final presentation.
-        - [Database Integration](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Database_Integration.docx)
-    - Third Segment:  Plut it in
-      - Connect your final database to your model, continue to train your model, and create your dashboard and presentation.
-        - [Machine Learning Model](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Machine_Learning.docx)
-    - Fourth Segment: Put it all together
-      - Put the final touches on your model, database, and dashboard. Lastly, create and deliver your final presentation to your class.
-        - [Dashboard](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Dashboard.docx)
-        - [Presentation](https://github.com/stephenanayashilliard/Reference/blob/main/Twenty_Final_Project/Presentation.docx)
 
 - ## Special Sites
   - [Scaling in sk learn](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
@@ -915,4 +993,9 @@
 - ## Interesting Reads
   - [Hit Makers: The Science of Popularity in an Age of Distraction](http://readingthemarkets.blogspot.com/2017/02/thompson-hit-makers.html)
   - [The Impostor Syndrome and How to Handle it](https://www.psychologytoday.com/us/blog/adaptation/201611/the-impostor-syndrome-and-how-handle-it)
+
+## Contact Information
+email:  stephenanayashilliard@gmail.com
+linkin: [](https://www.linkedin.com/notifications/)
+
 
