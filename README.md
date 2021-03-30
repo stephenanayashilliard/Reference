@@ -826,6 +826,7 @@
   - [Scaling in sk learn](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html)
   - [Standard Scaler Vs Minmaxscaler](https://stackoverflow.com/questions/51237635/difference-between-standard-scaler-and-minmaxscaler)
   - [Improve Your Analytics Projects w/ These Data Distributions Visualizations](https://towardsdatascience.com/improve-your-analytics-projects-w-these-data-distributions-visualizations-7ba3821f2092)
+  - [Catchfire:  Volunteer for Non-Profits](https://www.catchafire.org/)
 
 - ## Employment Services
   - ### Job Sites
@@ -856,6 +857,8 @@
       - [Google Fonts](https://developers.google.com/fonts/docs/getting_started)
     - [10 Fantastic Portfolio Websites](https://bestfolios.medium.com/10-fantastic-portfolio-websites-from-silicon-valley-design-leads-2d84b384dba6)
     - [One Page Portfolio Websites](https://bestfolios.medium.com/10-fantastic-portfolio-websites-from-silicon-valley-design-leads-2d84b384dba6)
+  - ### Data Analyst Information
+    - [Top 30 Data Analyst Interview Questions & Answers](https://career.guru99.com/top-18-data-analyst-interview-questions/)
   - ### Testing your skills
     - Python
       - [HackerRank](https://www.hackerrank.com/)
