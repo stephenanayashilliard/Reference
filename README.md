@@ -996,6 +996,6 @@ The following is a quick reference guide to helpful information concerning progr
 
 ## Contact Information
 email:  stephenanayashilliard@gmail.com
-linkin: [](https://www.linkedin.com/notifications/)
+linkedin: [Linkedin](https://www.linkedin.com/notifications/)
 
 
